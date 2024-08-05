@@ -353,7 +353,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 2, 3, 2, 3, 4, 4, 4, 4, 4, 4, 4, 4
+walklevels 4, 5, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6
 
 // morning encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
@@ -465,7 +465,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 3, 4, 3, 4, 3, 3, 5, 5, 5, 5, 5, 5
+walklevels 6, 7, 6, 7, 6, 6, 8, 8, 8, 8, 8, 8
 
 // morning encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
@@ -689,7 +689,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 3, 4, 3, 4, 5, 5, 3, 3, 6, 5, 6, 5
+walklevels 5, 6, 5, 6, 7, 7, 5, 5, 8, 7, 8, 7
 
 // morning encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
@@ -801,7 +801,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 3, 4, 3, 4, 5, 5, 3, 3, 6, 5, 6, 5
+walklevels 5, 6, 5, 6, 7, 7, 5, 5, 8, 7, 8, 7
 
 // morning encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
@@ -913,21 +913,21 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 6, 4, 6, 4, 6, 6, 6, 6, 6, 4, 6, 4
+walklevels 9, 7, 9, 7, 9, 9, 9, 9, 9, 7, 9, 7
 
 // morning encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
 pokemon SPECIES_BELLSPROUT
 pokemon SPECIES_RATTATA
 pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_RATTATA
+pokemon SPECIES_EKANS
 pokemon SPECIES_MAREEP
 pokemon SPECIES_MAREEP
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_RATTATA
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_RATTATA
+pokemon SPECIES_EKANS
 pokemon SPECIES_ZUBAT
 
 // day encounter slots
@@ -935,22 +935,22 @@ pokemon SPECIES_ZUBAT
 pokemon SPECIES_BELLSPROUT
 pokemon SPECIES_RATTATA
 pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_RATTATA
+pokemon SPECIES_EKANS
 pokemon SPECIES_MAREEP
 pokemon SPECIES_MAREEP
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_RATTATA
+pokemon SPECIES_EKANS
 pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
+pokemon SPECIES_EKANS
 
 // night encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
 pokemon SPECIES_WOOPER
 pokemon SPECIES_RATTATA
 pokemon SPECIES_WOOPER
-pokemon SPECIES_RATTATA
+pokemon SPECIES_EKANS
 pokemon SPECIES_BELLSPROUT
 pokemon SPECIES_BELLSPROUT
 pokemon SPECIES_MAREEP
@@ -1059,14 +1059,14 @@ pokemon SPECIES_SMEARGLE
 
 // night encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
-pokemon SPECIES_NATU
-pokemon SPECIES_NATU
-pokemon SPECIES_NATU
-pokemon SPECIES_NATU
-pokemon SPECIES_NATU
-pokemon SPECIES_NATU
-pokemon SPECIES_NATU
-pokemon SPECIES_NATU
+pokemon SPECIES_MURKROW
+pokemon SPECIES_MURKROW
+pokemon SPECIES_MURKROW
+pokemon SPECIES_MURKROW
+pokemon SPECIES_MURKROW
+pokemon SPECIES_MURKROW
+pokemon SPECIES_MURKROW
+pokemon SPECIES_MURKROW
 pokemon SPECIES_SMEARGLE
 pokemon SPECIES_SMEARGLE
 pokemon SPECIES_SMEARGLE
@@ -7745,7 +7745,7 @@ rocksmashrate 50
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 3, 2, 3, 2, 2, 2, 4, 4, 3, 4, 3, 4
+walklevels 6, 5, 6, 5, 5, 5, 7, 7, 6, 7, 6, 7
 
 // morning encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1

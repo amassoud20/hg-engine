@@ -10046,6 +10046,7 @@ trainerdata 290, "Li"
         move MOVE_PECK
         move MOVE_LEER
         move MOVE_STORED_POWER
+        move MOVE_NONE
         ballseal 0
 
         ivs 0
@@ -10065,6 +10066,7 @@ trainerdata 290, "Li"
         move MOVE_VINE_WHIP
         move MOVE_GROWTH
         move MOVE_WRAP
+        move MOVE_NONE
         ballseal 0
 
         ivs 0
