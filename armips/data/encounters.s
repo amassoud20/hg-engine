@@ -1585,7 +1585,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 6, 6, 6, 6, 5, 5, 4, 4, 7, 6, 7, 6
+walklevels 10, 10, 10, 10, 9, 9, 8, 8, 11, 10, 11, 10
 
 // morning encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
@@ -1623,8 +1623,8 @@ pokemon SPECIES_GEODUDE
 pokemon SPECIES_SANDSHREW
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_SANDSHREW
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_WOOPER
+pokemon SPECIES_WOOPER
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 pokemon SPECIES_ZUBAT
@@ -1697,7 +1697,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 8, 8, 8, 8, 7, 7, 8, 8, 9, 6, 9, 6
+walklevels 10, 10, 10, 10, 9, 9, 8, 8, 11, 10, 11, 10
 
 // morning encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
@@ -1735,8 +1735,8 @@ pokemon SPECIES_GEODUDE
 pokemon SPECIES_SANDSHREW
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_SANDSHREW
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_WOOPER
+pokemon SPECIES_WOOPER
 pokemon SPECIES_ONIX
 pokemon SPECIES_ONIX
 pokemon SPECIES_ZUBAT
@@ -1921,17 +1921,17 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 6, 7, 6, 7, 6, 6, 6, 6, 8, 4, 8, 4
+walklevels 11, 12, 11, 12, 11, 11, 11, 11, 13, 9, 13, 9
 
 // morning encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
 pokemon SPECIES_HOPPIP
-pokemon SPECIES_RATTATA
+pokemon SPECIES_EKANS
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_RATTATA
 pokemon SPECIES_SPEAROW
 pokemon SPECIES_SPEAROW
-pokemon SPECIES_RATTATA
+pokemon SPECIES_EKANS
 pokemon SPECIES_RATTATA
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_ZUBAT
@@ -1941,12 +1941,12 @@ pokemon SPECIES_ZUBAT
 // day encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
 pokemon SPECIES_HOPPIP
-pokemon SPECIES_RATTATA
+pokemon SPECIES_EKANS
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_RATTATA
 pokemon SPECIES_SPEAROW
 pokemon SPECIES_SPEAROW
-pokemon SPECIES_RATTATA
+pokemon SPECIES_EKANS
 pokemon SPECIES_RATTATA
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_RATTATA
@@ -1956,12 +1956,12 @@ pokemon SPECIES_RATTATA
 // night encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_RATTATA
+pokemon SPECIES_EKANS
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_RATTATA
+pokemon SPECIES_EKANS
 pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
+pokemon SPECIES_EKANS
 pokemon SPECIES_RATTATA
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_ZUBAT
@@ -2033,7 +2033,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 5, 6, 5, 6, 7, 7, 6, 6, 8, 8, 8, 8
+walklevels 9, 10, 9, 10, 11, 11, 10, 10, 12, 12, 12, 12
 
 // morning encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
