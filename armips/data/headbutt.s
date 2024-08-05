@@ -2198,16 +2198,16 @@ headbuttheader 117,  56,   0
     // normal slots
     headbuttencounter SPECIES_HOOTHOOT, 3, 5
     headbuttencounter SPECIES_CATERPIE, 3, 5
-    headbuttencounter SPECIES_CATERPIE, 3, 5
+    headbuttencounter SPECIES_WEEDLE, 3, 5
     headbuttencounter SPECIES_HOOTHOOT, 3, 5
     headbuttencounter SPECIES_METAPOD, 3, 5
-    headbuttencounter SPECIES_METAPOD, 3, 5
+    headbuttencounter SPECIES_KAKUNA, 3, 5
     headbuttencounter SPECIES_HOOTHOOT, 6, 8
     headbuttencounter SPECIES_PINECO, 6, 8
     headbuttencounter SPECIES_PINECO, 6, 8
     headbuttencounter SPECIES_NOCTOWL, 6, 8
     headbuttencounter SPECIES_BUTTERFREE, 6, 8
-    headbuttencounter SPECIES_BUTTERFREE, 6, 8
+    headbuttencounter SPECIES_BEEDRILL, 6, 8
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -2435,7 +2435,7 @@ headbuttheader 151,  10,   4
     // special slots
     headbuttencounter SPECIES_METAPOD, 25, 28
     headbuttencounter SPECIES_BUTTERFREE, 25, 28
-    headbuttencounter SPECIES_BUTTERFREE, 25, 28
+    headbuttencounter SPECIES_BEEDRILL, 25, 28
     headbuttencounter SPECIES_HERACROSS, 25, 28
     headbuttencounter SPECIES_HERACROSS, 25, 28
     headbuttencounter SPECIES_HERACROSS, 27, 30

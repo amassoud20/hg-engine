@@ -2257,33 +2257,33 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 5, 6, 5, 6, 6, 6, 5, 5, 5, 6, 5, 6
+walklevels 11, 12, 11, 12, 12, 12, 11, 11, 11, 12, 11, 12
 
 // morning encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
 pokemon SPECIES_CATERPIE
-pokemon SPECIES_METAPOD
 pokemon SPECIES_CATERPIE
-pokemon SPECIES_METAPOD
+pokemon SPECIES_KAKUNA
+pokemon SPECIES_KAKUNA
 pokemon SPECIES_CATERPIE
-pokemon SPECIES_CATERPIE
+pokemon SPECIES_KAKUNA
 pokemon SPECIES_PARAS
 pokemon SPECIES_PARAS
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_PARAS
+pokemon SPECIES_PICHU
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_PARAS
+pokemon SPECIES_PICHU
 
 // day encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
 pokemon SPECIES_CATERPIE
+pokemon SPECIES_KAKUNA
 pokemon SPECIES_CATERPIE
+pokemon SPECIES_KAKUNA
 pokemon SPECIES_CATERPIE
+pokemon SPECIES_KAKUNA
 pokemon SPECIES_CATERPIE
-pokemon SPECIES_METAPOD
-pokemon SPECIES_METAPOD
-pokemon SPECIES_METAPOD
-pokemon SPECIES_METAPOD
+pokemon SPECIES_KAKUNA
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_PARAS
 pokemon SPECIES_ZUBAT
@@ -2292,16 +2292,16 @@ pokemon SPECIES_PARAS
 // night encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
 pokemon SPECIES_ODDISH
-pokemon SPECIES_ODDISH
-pokemon SPECIES_ODDISH
+pokemon SPECIES_VENONAT
+pokemon SPECIES_PSYDUCK
 pokemon SPECIES_ODDISH
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_PARAS
 pokemon SPECIES_PARAS
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_HOOTHOOT
 pokemon SPECIES_PARAS
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_HOOTHOOT
 pokemon SPECIES_PARAS
 
 // hoenn encounter slots

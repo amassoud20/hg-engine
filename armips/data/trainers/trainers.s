@@ -31,9 +31,9 @@ trainerdata 0, "-"
     endparty
 
 trainerdata 1, "Silver"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
+    trainermontype TRAINER_DATA_TYPE_MOVES
     trainerclass CLASS_RIVAL
-    nummons 3
+    nummons 5
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -43,25 +43,55 @@ trainerdata 1, "Silver"
     endentry
 
     party 1
-        // mon 0
         ivs 30
         abilityslot 0
-        level 14
+        level 17
         pokemon SPECIES_GASTLY
+        move MOVE_LICK
+        move MOVE_CONFUSE_RAY
+        move MOVE_CURSE
+        move MOVE_SPITE
         ballseal 0
 
-        // mon 1
         ivs 30
         abilityslot 0
-        level 16
+        level 17
+        pokemon SPECIES_KADABRA
+        move MOVE_PSYBEAM
+        move MOVE_KINESIS
+        move MOVE_DISABLE
+        move MOVE_REFLECT
+        ballseal 0
+
+        ivs 30
+        abilityslot 0
+        level 18
         pokemon SPECIES_ZUBAT
+        move MOVE_POISON_FANG
+        move MOVE_SUPERSONIC
+        move MOVE_ABSORB
+        move MOVE_ASTONISH
+        ballseal 0
+
+        ivs 30
+        abilityslot 0
+        level 19
+        pokemon SPECIES_MURKROW
+        move MOVE_WING_ATTACK
+        move MOVE_ASTONISH
+        move MOVE_GUST
+        move MOVE_HAZE
         ballseal 0
 
         // mon 2
         ivs 30
         abilityslot 0
-        level 18
+        level 21
         pokemon SPECIES_BAYLEEF
+        move MOVE_RAZOR_LEAF
+        move MOVE_TACKLE
+        move MOVE_POISON_POWDER
+        move MOVE_REFLECT
         ballseal 0
     endparty
 
@@ -73,7 +103,7 @@ trainerdata 2, "Silver"
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_PRIORITIZE_DAMAGE | 0
     battletype SINGLE_BATTLE
     endentry
 
@@ -94,7 +124,7 @@ trainerdata 3, "Silver"
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_PRIORITIZE_DAMAGE | 0
     battletype SINGLE_BATTLE
     endentry
 
@@ -1214,7 +1244,7 @@ trainerdata 34, "Chuck"
     item ITEM_HYPER_POTION
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EXPERT_ATTACKS | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | 0
     battletype SINGLE_BATTLE
     endentry
 
@@ -8876,9 +8906,9 @@ trainerdata 265, "Silver"
     endparty
 
 trainerdata 266, "Silver"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
+    trainermontype TRAINER_DATA_TYPE_MOVES
     trainerclass CLASS_RIVAL
-    nummons 3
+    nummons 5
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -8888,18 +8918,44 @@ trainerdata 266, "Silver"
     endentry
 
     party 266
-        // mon 0
         ivs 30
         abilityslot 0
-        level 14
+        level 17
         pokemon SPECIES_GASTLY
+        move MOVE_LICK
+        move MOVE_CONFUSE_RAY
+        move MOVE_CURSE
+        move MOVE_SPITE
         ballseal 0
 
-        // mon 1
         ivs 30
         abilityslot 0
-        level 16
+        level 17
+        pokemon SPECIES_KADABRA
+        move MOVE_PSYBEAM
+        move MOVE_KINESIS
+        move MOVE_DISABLE
+        move MOVE_REFLECT
+        ballseal 0
+
+        ivs 30
+        abilityslot 0
+        level 18
         pokemon SPECIES_ZUBAT
+        move MOVE_POISON_FANG
+        move MOVE_SUPERSONIC
+        move MOVE_ABSORB
+        move MOVE_ASTONISH
+        ballseal 0
+
+        ivs 30
+        abilityslot 0
+        level 19
+        pokemon SPECIES_MURKROW
+        move MOVE_WING_ATTACK
+        move MOVE_ASTONISH
+        move MOVE_GUST
+        move MOVE_HAZE
         ballseal 0
 
         // mon 2
@@ -8907,6 +8963,10 @@ trainerdata 266, "Silver"
         abilityslot 0
         level 18
         pokemon SPECIES_QUILAVA
+        move MOVE_FLAME_WHEEL
+        move MOVE_QUICK_ATTACK
+        move MOVE_EMBER
+        move MOVE_SMOKESCREEN
         ballseal 0
     endparty
 
@@ -9049,9 +9109,9 @@ trainerdata 268, "Silver"
     endparty
 
 trainerdata 269, "Silver"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
+    trainermontype TRAINER_DATA_TYPE_MOVES
     trainerclass CLASS_RIVAL
-    nummons 3
+    nummons 5
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -9061,18 +9121,44 @@ trainerdata 269, "Silver"
     endentry
 
     party 269
-        // mon 0
         ivs 30
         abilityslot 0
-        level 14
+        level 17
         pokemon SPECIES_GASTLY
+        move MOVE_LICK
+        move MOVE_CONFUSE_RAY
+        move MOVE_CURSE
+        move MOVE_SPITE
         ballseal 0
 
-        // mon 1
         ivs 30
         abilityslot 0
-        level 16
+        level 17
+        pokemon SPECIES_KADABRA
+        move MOVE_PSYBEAM
+        move MOVE_KINESIS
+        move MOVE_DISABLE
+        move MOVE_REFLECT
+        ballseal 0
+
+        ivs 30
+        abilityslot 0
+        level 18
         pokemon SPECIES_ZUBAT
+        move MOVE_POISON_FANG
+        move MOVE_SUPERSONIC
+        move MOVE_ABSORB
+        move MOVE_ASTONISH
+        ballseal 0
+
+        ivs 30
+        abilityslot 0
+        level 19
+        pokemon SPECIES_MURKROW
+        move MOVE_WING_ATTACK
+        move MOVE_ASTONISH
+        move MOVE_GUST
+        move MOVE_HAZE
         ballseal 0
 
         // mon 2
@@ -9080,6 +9166,10 @@ trainerdata 269, "Silver"
         abilityslot 0
         level 18
         pokemon SPECIES_CROCONAW
+        move MOVE_WATER_GUN
+        move MOVE_ICE_FANG
+        move MOVE_BITE
+        move MOVE_SCRATCH
         ballseal 0
     endparty
 
@@ -16828,7 +16918,7 @@ trainerdata 495, "Boy"
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_PRIORITIZE_DAMAGE | 0
     battletype SINGLE_BATTLE
     endentry
 
@@ -16854,7 +16944,7 @@ trainerdata 496, "Boy"
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_PRIORITIZE_DAMAGE | 0
     battletype SINGLE_BATTLE
     endentry
 
@@ -16880,7 +16970,7 @@ trainerdata 497, "Boy"
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_PRIORITIZE_DAMAGE | 0
     battletype SINGLE_BATTLE
     endentry
 
@@ -24765,7 +24855,7 @@ trainerdata 718, "Chuck"
     item ITEM_FULL_RESTORE
     item ITEM_FULL_RESTORE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EXPERT_ATTACKS | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | 0
     battletype SINGLE_BATTLE
     endentry
 
