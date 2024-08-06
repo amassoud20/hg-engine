@@ -2369,7 +2369,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 10, 11, 10, 11, 12, 12, 10, 10, 13, 10, 13, 10
+walklevels 14, 15, 14, 15, 16, 16, 14, 14, 17, 14, 17, 14
 
 // morning encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
@@ -2377,13 +2377,13 @@ pokemon SPECIES_DROWZEE
 pokemon SPECIES_RATTATA
 pokemon SPECIES_DROWZEE
 pokemon SPECIES_RATTATA
-pokemon SPECIES_DROWZEE
-pokemon SPECIES_DROWZEE
+pokemon SPECIES_SNUBBULL
+pokemon SPECIES_PIDGEY
 pokemon SPECIES_ABRA
 pokemon SPECIES_ABRA
-pokemon SPECIES_RATTATA
+pokemon SPECIES_IGGLYBUFF
 pokemon SPECIES_DITTO
-pokemon SPECIES_RATTATA
+pokemon SPECIES_IGGLYBUFF
 pokemon SPECIES_DITTO
 
 // day encounter slots
@@ -2392,13 +2392,13 @@ pokemon SPECIES_DROWZEE
 pokemon SPECIES_RATTATA
 pokemon SPECIES_DROWZEE
 pokemon SPECIES_RATTATA
-pokemon SPECIES_DROWZEE
-pokemon SPECIES_DROWZEE
+pokemon SPECIES_SNUBBULL
+pokemon SPECIES_PIDGEY
 pokemon SPECIES_ABRA
 pokemon SPECIES_ABRA
-pokemon SPECIES_RATTATA
+pokemon SPECIES_CLEFFA
 pokemon SPECIES_DITTO
-pokemon SPECIES_RATTATA
+pokemon SPECIES_CLEFFA
 pokemon SPECIES_DITTO
 
 // night encounter slots
@@ -2407,13 +2407,13 @@ pokemon SPECIES_DROWZEE
 pokemon SPECIES_RATTATA
 pokemon SPECIES_DROWZEE
 pokemon SPECIES_RATTATA
-pokemon SPECIES_DROWZEE
-pokemon SPECIES_DROWZEE
+pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_HOOTHOOT
 pokemon SPECIES_ABRA
 pokemon SPECIES_ABRA
-pokemon SPECIES_RATTATA
+pokemon SPECIES_IGGLYBUFF
 pokemon SPECIES_DITTO
-pokemon SPECIES_RATTATA
+pokemon SPECIES_IGGLYBUFF
 pokemon SPECIES_DITTO
 
 // hoenn encounter slots
