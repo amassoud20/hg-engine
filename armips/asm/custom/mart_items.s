@@ -160,16 +160,6 @@ const u16 *_0210FA3C[] = {
 
 /* const u16 _020FBB08[] = {ITEM_PROTEIN, ITEM_IRON, ITEM_CALCIUM, ITEM_ZINC, ITEM_CARBOS, ITEM_HP_UP, 0xFFFF}; */
 
-.org 0x020FBB08
-/* Celadon Dept Store 5F -> Goldenrod/Celadon Dept Store 2F (reduced inventory) */
-.halfword ITEM_POTION
-.halfword ITEM_SUPER_POTION
-.halfword ITEM_HYPER_POTION
-.halfword ITEM_MAX_POTION
-.halfword ITEM_REVIVE
-.halfword ITEM_FULL_HEAL
-.halfword 0xFFFF
-
 /* const u16 _020FBB16[] = {ITEM_POKE_DOLL, ITEM_FRESH_WATER, ITEM_SODA_POP, ITEM_LEMONADE, ITEM_REPEL, ITEM_HEART_MAIL, 0xFFFF}; */
 /* const u16 _020FBB84[] = {ITEM_ULTRA_BALL, ITEM_MAX_REPEL, ITEM_HYPER_POTION, ITEM_MAX_POTION, ITEM_FULL_RESTORE, ITEM_REVIVE, ITEM_FULL_HEAL, 0xFFFF}; */
 
@@ -179,23 +169,23 @@ const u16 *_0210FA3C[] = {
 .org 0x020FBBB4
 /* This spills over into _020FBBC6 */
 /* Goldenrod Dept Store 3F & Celadon Dept Store 5F -> Chansey Supply 1 */ 
-.halfword ITEM_HP_UP
-.halfword ITEM_PROTEIN
-.halfword ITEM_IRON
-.halfword ITEM_CALCIUM
-.halfword ITEM_ZINC
-.halfword ITEM_CARBOS
-.halfword ITEM_POWER_WEIGHT
-.halfword ITEM_POWER_BRACER
-.halfword ITEM_POWER_BELT
+.halfword ITEM_FIRE_STONE
+.halfword ITEM_THUNDER_STONE
+.halfword ITEM_WATER_STONE
+.halfword ITEM_SUN_STONE
+.halfword ITEM_MOON_STONE
+.halfword ITEM_LEAF_STONE
+.halfword ITEM_ICE_STONE
+.halfword ITEM_DUSK_STONE
+.halfword ITEM_DAWN_STONE
 
-.halfword ITEM_POWER_LENS
-.halfword ITEM_POWER_BAND
-.halfword ITEM_POWER_ANKLET
-.halfword ITEM_EXP_SHARE
-.halfword ITEM_MACHO_BRACE
-.halfword 0xFFFF
-.halfword 0xFFFF
+.halfword ITEM_SHINY_STONE
+.halfword ITEM_OVAL_STONE
+.halfword ITEM_KINGS_ROCK
+.halfword ITEM_METAL_COAT
+.halfword ITEM_UP_GRADE
+.halfword ITEM_DUBIOUS_DISC
+.halfword ITEM_LINKING_CORD
 .halfword 0xFFFF
 .halfword 0xFFFF
 
@@ -220,7 +210,6 @@ const u16 *_0210FA3C[] = {
 /* This spills over into _020FBC02 */
 /* Goldenrod Dept Store 2F & Celadon Dept Store 2F -> Chansey Supply 2 */
 .halfword ITEM_PP_UP
-.halfword ITEM_ABILITY_CAPSULE
 .halfword ITEM_LONELY_MINT
 .halfword ITEM_ADAMANT_MINT
 .halfword ITEM_NAUGHTY_MINT
@@ -231,8 +220,8 @@ const u16 *_0210FA3C[] = {
 .halfword ITEM_RELAXED_MINT
 .halfword ITEM_MODEST_MINT
 .halfword ITEM_MILD_MINT
-
 .halfword ITEM_RASH_MINT
+
 .halfword ITEM_QUIET_MINT
 .halfword ITEM_CALM_MINT
 .halfword ITEM_GENTLE_MINT
@@ -244,26 +233,11 @@ const u16 *_0210FA3C[] = {
 .halfword ITEM_NAIVE_MINT
 .halfword ITEM_SERIOUS_MINT
 .halfword 0xFFFF
+.halfword 0xFFFF
 
 /* const u16 _020FBC1A[] = {ITEM_POKE_BALL, ITEM_GREAT_BALL, ITEM_ULTRA_BALL, ITEM_ESCAPE_ROPE, ITEM_POKE_DOLL, ITEM_REPEL, ITEM_SUPER_REPEL, ITEM_MAX_REPEL, ITEM_GRASS_MAIL, ITEM_FLAME_MAIL, ITEM_BUBBLE_MAIL, ITEM_SPACE_MAIL, 0xFFFF}; */
 
 /* const u16 _020FBC34[] = {ITEM_TM70, ITEM_TM17, ITEM_TM54, ITEM_TM83, ITEM_TM16, ITEM_TM33, ITEM_TM22, ITEM_TM52, ITEM_TM38, ITEM_TM25, ITEM_TM14, ITEM_TM15, 0xFFFF}; */
-
-.org 0x020FBC34
-/* Goldenrod Dept Store 5F -> Goldenrod Dept Store 5F still (also Celadon 3F) */
-.halfword ITEM_SUN_STONE
-.halfword ITEM_MOON_STONE
-.halfword ITEM_FIRE_STONE
-.halfword ITEM_THUNDER_STONE
-.halfword ITEM_WATER_STONE
-.halfword ITEM_LEAF_STONE
-.halfword ITEM_ICE_STONE
-.halfword ITEM_EVERSTONE
-.halfword 0xFFFF
-.halfword 0xFFFF
-.halfword 0xFFFF
-.halfword 0xFFFF
-.halfword 0xFFFF
 
 /* const u16 _020FBC4E[] = {ITEM_POKE_BALL, ITEM_GREAT_BALL, ITEM_ULTRA_BALL, ITEM_ESCAPE_ROPE, ITEM_POKE_DOLL, ITEM_REPEL, ITEM_SUPER_REPEL, ITEM_MAX_REPEL, ITEM_GRASS_MAIL, ITEM_FLAME_MAIL, ITEM_BUBBLE_MAIL, ITEM_SPACE_MAIL, 0xFFFF}; */
 
@@ -284,21 +258,5 @@ const u16 *_0210FA3C[] = {
 .halfword 0xFFFF
 
 /* const u16 _020FBC68[] = {ITEM_TM21, ITEM_TM27, ITEM_TM87, ITEM_TM78, ITEM_TM12, ITEM_TM41, ITEM_TM20, ITEM_TM28, ITEM_TM76, ITEM_TM55, ITEM_TM72, ITEM_TM79, 0xFFFF}; */
-
-.org 0x020FBC68
-/* Celadon Dept Store 3F -> Safari Zone Gate */
-.halfword ITEM_SHINY_STONE
-.halfword ITEM_DUSK_STONE
-.halfword ITEM_DAWN_STONE
-.halfword ITEM_OVAL_STONE
-.halfword ITEM_KINGS_ROCK
-.halfword ITEM_LINKING_CORD
-.halfword ITEM_RAZOR_CLAW
-.halfword ITEM_RAZOR_FANG
-.halfword ITEM_PRISM_SCALE
-.halfword ITEM_SACHET
-.halfword ITEM_UP_GRADE
-.halfword ITEM_WHIPPED_DREAM
-.halfword 0xFFFF
 
 .close
