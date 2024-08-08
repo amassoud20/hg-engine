@@ -47,7 +47,7 @@ headbuttheader   9,  20,   0
     headbuttencounter SPECIES_WURMPLE, 2, 3
     headbuttencounter SPECIES_HOOTHOOT, 5, 6
     headbuttencounter SPECIES_SPINARAK, 5, 6
-    headbuttencounter SPECIES_SPINARAK, 5, 6
+    headbuttencounter SPECIES_LEDYBA, 5, 6
     headbuttencounter SPECIES_WURMPLE, 5, 6
     headbuttencounter SPECIES_WURMPLE, 5, 6
     headbuttencounter SPECIES_WURMPLE, 5, 6
@@ -91,7 +91,7 @@ headbuttheader  10,  15,   0
     headbuttencounter SPECIES_WURMPLE, 3, 4
     headbuttencounter SPECIES_HOOTHOOT, 5, 7
     headbuttencounter SPECIES_SPINARAK, 5, 7
-    headbuttencounter SPECIES_SPINARAK, 5, 7
+    headbuttencounter SPECIES_LEDYBA, 5, 7
     headbuttencounter SPECIES_WURMPLE, 5, 7
     headbuttencounter SPECIES_WURMPLE, 5, 7
     headbuttencounter SPECIES_WURMPLE, 5, 7
@@ -345,7 +345,7 @@ headbuttheader  20,  10,   0
     // normal slots
     headbuttencounter SPECIES_HOOTHOOT, 22, 23
     headbuttencounter SPECIES_SPINARAK, 22, 23
-    headbuttencounter SPECIES_SPINARAK, 22, 23
+    headbuttencounter SPECIES_LEDYBA, 22, 23
     headbuttencounter SPECIES_WURMPLE, 22, 23
     headbuttencounter SPECIES_WURMPLE, 22, 23
     headbuttencounter SPECIES_WURMPLE, 22, 23
@@ -379,7 +379,7 @@ headbuttheader  21,  15,   0
     // normal slots
     headbuttencounter SPECIES_HOOTHOOT, 22, 23
     headbuttencounter SPECIES_SPINARAK, 22, 23
-    headbuttencounter SPECIES_SPINARAK, 22, 23
+    headbuttencounter SPECIES_LEDYBA, 22, 23
     headbuttencounter SPECIES_WURMPLE, 22, 23
     headbuttencounter SPECIES_WURMPLE, 22, 23
     headbuttencounter SPECIES_WURMPLE, 22, 23
@@ -418,7 +418,7 @@ headbuttheader  22,   3,   0
     // normal slots
     headbuttencounter SPECIES_HOOTHOOT, 26, 27
     headbuttencounter SPECIES_SPINARAK, 26, 27
-    headbuttencounter SPECIES_SPINARAK, 26, 27
+    headbuttencounter SPECIES_LEDYBA, 26, 27
     headbuttencounter SPECIES_WURMPLE, 26, 27
     headbuttencounter SPECIES_WURMPLE, 26, 27
     headbuttencounter SPECIES_WURMPLE, 26, 27
@@ -445,7 +445,7 @@ headbuttheader  23,  19,   0
     // normal slots
     headbuttencounter SPECIES_HOOTHOOT, 21, 23
     headbuttencounter SPECIES_SPINARAK, 21, 23
-    headbuttencounter SPECIES_SPINARAK, 21, 23
+    headbuttencounter SPECIES_LEDYBA, 21, 23
     headbuttencounter SPECIES_WURMPLE, 21, 23
     headbuttencounter SPECIES_WURMPLE, 21, 23
     headbuttencounter SPECIES_WURMPLE, 21, 23
@@ -517,7 +517,7 @@ headbuttheader  26,   3,   0
     // normal slots
     headbuttencounter SPECIES_HOOTHOOT, 26, 27
     headbuttencounter SPECIES_SPINARAK, 26, 27
-    headbuttencounter SPECIES_SPINARAK, 26, 27
+    headbuttencounter SPECIES_LEDYBA, 26, 27
     headbuttencounter SPECIES_WURMPLE, 26, 27
     headbuttencounter SPECIES_WURMPLE, 26, 27
     headbuttencounter SPECIES_WURMPLE, 26, 27
@@ -550,7 +550,7 @@ headbuttheader  27,   7,   0
     headbuttencounter SPECIES_WURMPLE, 3, 4
     headbuttencounter SPECIES_HOOTHOOT, 5, 7
     headbuttencounter SPECIES_SPINARAK, 5, 7
-    headbuttencounter SPECIES_SPINARAK, 5, 7
+    headbuttencounter SPECIES_LEDYBA, 5, 7
     headbuttencounter SPECIES_WURMPLE, 5, 7
     headbuttencounter SPECIES_WURMPLE, 5, 7
     headbuttencounter SPECIES_WURMPLE, 5, 7
@@ -624,7 +624,7 @@ headbuttheader  30,  17,   0
     headbuttencounter SPECIES_EXEGGCUTE, 28, 29
     headbuttencounter SPECIES_HOOTHOOT, 31, 32
     headbuttencounter SPECIES_SPINARAK, 31, 32
-    headbuttencounter SPECIES_SPINARAK, 31, 32
+    headbuttencounter SPECIES_LEDYBA, 31, 32
     headbuttencounter SPECIES_EXEGGCUTE, 31, 32
     headbuttencounter SPECIES_EXEGGCUTE, 31, 32
     headbuttencounter SPECIES_EXEGGCUTE, 31, 32
@@ -665,7 +665,7 @@ headbuttheader  31,  17,   0
     headbuttencounter SPECIES_EXEGGCUTE, 28, 29
     headbuttencounter SPECIES_HOOTHOOT, 31, 32
     headbuttencounter SPECIES_SPINARAK, 31, 32
-    headbuttencounter SPECIES_SPINARAK, 31, 32
+    headbuttencounter SPECIES_LEDYBA, 31, 32
     headbuttencounter SPECIES_EXEGGCUTE, 31, 32
     headbuttencounter SPECIES_EXEGGCUTE, 31, 32
     headbuttencounter SPECIES_EXEGGCUTE, 31, 32
@@ -745,7 +745,7 @@ headbuttheader  33,  35,   0
     headbuttencounter SPECIES_EXEGGCUTE, 2, 3
     headbuttencounter SPECIES_HOOTHOOT, 4, 5
     headbuttencounter SPECIES_SPINARAK, 4, 5
-    headbuttencounter SPECIES_SPINARAK, 4, 5
+    headbuttencounter SPECIES_LEDYBA, 4, 5
     headbuttencounter SPECIES_EXEGGCUTE, 4, 5
     headbuttencounter SPECIES_EXEGGCUTE, 4, 5
     headbuttencounter SPECIES_EXEGGCUTE, 4, 5
@@ -804,7 +804,7 @@ headbuttheader  34,  30,   0
     headbuttencounter SPECIES_EXEGGCUTE, 2, 3
     headbuttencounter SPECIES_HOOTHOOT, 4, 5
     headbuttencounter SPECIES_SPINARAK, 4, 5
-    headbuttencounter SPECIES_SPINARAK, 4, 5
+    headbuttencounter SPECIES_LEDYBA, 4, 5
     headbuttencounter SPECIES_EXEGGCUTE, 4, 5
     headbuttencounter SPECIES_EXEGGCUTE, 4, 5
     headbuttencounter SPECIES_EXEGGCUTE, 4, 5
@@ -858,7 +858,7 @@ headbuttheader  35,  15,   0
     headbuttencounter SPECIES_EXEGGCUTE, 3, 4
     headbuttencounter SPECIES_HOOTHOOT, 5, 6
     headbuttencounter SPECIES_SPINARAK, 5, 6
-    headbuttencounter SPECIES_SPINARAK, 5, 6
+    headbuttencounter SPECIES_LEDYBA, 5, 6
     headbuttencounter SPECIES_EXEGGCUTE, 5, 6
     headbuttencounter SPECIES_EXEGGCUTE, 5, 6
     headbuttencounter SPECIES_EXEGGCUTE, 5, 6
@@ -984,7 +984,7 @@ headbuttheader  38,  15,   1
     headbuttencounter SPECIES_EXEGGCUTE, 9, 10
     headbuttencounter SPECIES_HOOTHOOT, 11, 12
     headbuttencounter SPECIES_SPINARAK, 11, 12
-    headbuttencounter SPECIES_SPINARAK, 11, 12
+    headbuttencounter SPECIES_LEDYBA, 11, 12
     headbuttencounter SPECIES_EXEGGCUTE, 11, 12
     headbuttencounter SPECIES_EXEGGCUTE, 11, 12
     headbuttencounter SPECIES_EXEGGCUTE, 11, 12
@@ -1025,7 +1025,7 @@ headbuttheader  39,  14,   0
     headbuttencounter SPECIES_EXEGGCUTE, 10, 11
     headbuttencounter SPECIES_HOOTHOOT, 13, 14
     headbuttencounter SPECIES_SPINARAK, 13, 14
-    headbuttencounter SPECIES_SPINARAK, 13, 14
+    headbuttencounter SPECIES_LEDYBA, 13, 14
     headbuttencounter SPECIES_EXEGGCUTE, 13, 14
     headbuttencounter SPECIES_EXEGGCUTE, 13, 14
     headbuttencounter SPECIES_EXEGGCUTE, 13, 14
@@ -1063,7 +1063,7 @@ headbuttheader  40,  26,   0
     headbuttencounter SPECIES_EXEGGCUTE, 4, 5
     headbuttencounter SPECIES_HOOTHOOT, 6, 7
     headbuttencounter SPECIES_SPINARAK, 6, 7
-    headbuttencounter SPECIES_SPINARAK, 6, 7
+    headbuttencounter SPECIES_LEDYBA, 6, 7
     headbuttencounter SPECIES_EXEGGCUTE, 6, 7
     headbuttencounter SPECIES_EXEGGCUTE, 6, 7
     headbuttencounter SPECIES_EXEGGCUTE, 6, 7
@@ -1113,7 +1113,7 @@ headbuttheader  41,  13,   0
     headbuttencounter SPECIES_EXEGGCUTE, 12, 14
     headbuttencounter SPECIES_HOOTHOOT, 15, 17
     headbuttencounter SPECIES_SPINARAK, 15, 17
-    headbuttencounter SPECIES_SPINARAK, 15, 17
+    headbuttencounter SPECIES_LEDYBA, 15, 17
     headbuttencounter SPECIES_EXEGGCUTE, 15, 17
     headbuttencounter SPECIES_EXEGGCUTE, 15, 17
     headbuttencounter SPECIES_EXEGGCUTE, 15, 17
@@ -1150,7 +1150,7 @@ headbuttheader  42,  13,   1
     headbuttencounter SPECIES_EXEGGCUTE, 13, 14
     headbuttencounter SPECIES_HOOTHOOT, 15, 16
     headbuttencounter SPECIES_SPINARAK, 15, 16
-    headbuttencounter SPECIES_SPINARAK, 15, 16
+    headbuttencounter SPECIES_LEDYBA, 15, 16
     headbuttencounter SPECIES_EXEGGCUTE, 15, 16
     headbuttencounter SPECIES_EXEGGCUTE, 15, 16
     headbuttencounter SPECIES_EXEGGCUTE, 15, 16
@@ -1189,7 +1189,7 @@ headbuttheader  43,   3,   0
     headbuttencounter SPECIES_EXEGGCUTE, 14, 15
     headbuttencounter SPECIES_HOOTHOOT, 16, 17
     headbuttencounter SPECIES_SPINARAK, 16, 17
-    headbuttencounter SPECIES_SPINARAK, 16, 17
+    headbuttencounter SPECIES_LEDYBA, 16, 17
     headbuttencounter SPECIES_EXEGGCUTE, 16, 17
     headbuttencounter SPECIES_EXEGGCUTE, 16, 17
     headbuttencounter SPECIES_EXEGGCUTE, 16, 17
@@ -1390,7 +1390,7 @@ headbuttheader  49,  17,   0
     headbuttencounter SPECIES_WURMPLE, 2, 3
     headbuttencounter SPECIES_HOOTHOOT, 5, 6
     headbuttencounter SPECIES_SPINARAK, 5, 6
-    headbuttencounter SPECIES_SPINARAK, 5, 6
+    headbuttencounter SPECIES_LEDYBA, 5, 6
     headbuttencounter SPECIES_WURMPLE, 5, 6
     headbuttencounter SPECIES_WURMPLE, 5, 6
     headbuttencounter SPECIES_WURMPLE, 5, 6
@@ -1431,7 +1431,7 @@ headbuttheader  50,  21,   0
     headbuttencounter SPECIES_WURMPLE, 3, 4
     headbuttencounter SPECIES_HOOTHOOT, 5, 7
     headbuttencounter SPECIES_SPINARAK, 5, 7
-    headbuttencounter SPECIES_SPINARAK, 5, 7
+    headbuttencounter SPECIES_LEDYBA, 5, 7
     headbuttencounter SPECIES_WURMPLE, 5, 7
     headbuttencounter SPECIES_WURMPLE, 5, 7
     headbuttencounter SPECIES_WURMPLE, 5, 7
@@ -1646,7 +1646,7 @@ headbuttheader  56,  18,   0
     // normal slots
     headbuttencounter SPECIES_HOOTHOOT, 21, 23
     headbuttencounter SPECIES_SPINARAK, 21, 23
-    headbuttencounter SPECIES_SPINARAK, 21, 23
+    headbuttencounter SPECIES_LEDYBA, 21, 23
     headbuttencounter SPECIES_WURMPLE, 21, 23
     headbuttencounter SPECIES_WURMPLE, 21, 23
     headbuttencounter SPECIES_WURMPLE, 21, 23
@@ -1703,7 +1703,7 @@ headbuttheader  60,  11,   0
     headbuttencounter SPECIES_EXEGGCUTE, 2, 3
     headbuttencounter SPECIES_HOOTHOOT, 4, 5
     headbuttencounter SPECIES_SPINARAK, 4, 5
-    headbuttencounter SPECIES_SPINARAK, 4, 5
+    headbuttencounter SPECIES_LEDYBA, 4, 5
     headbuttencounter SPECIES_EXEGGCUTE, 4, 5
     headbuttencounter SPECIES_EXEGGCUTE, 4, 5
     headbuttencounter SPECIES_EXEGGCUTE, 4, 5
@@ -1756,7 +1756,7 @@ headbuttheader  67,   7,   4
     headbuttencounter SPECIES_EXEGGCUTE, 2, 3
     headbuttencounter SPECIES_HOOTHOOT, 4, 5
     headbuttencounter SPECIES_SPINARAK, 4, 5
-    headbuttencounter SPECIES_SPINARAK, 4, 5
+    headbuttencounter SPECIES_LEDYBA, 4, 5
     headbuttencounter SPECIES_EXEGGCUTE, 4, 5
     headbuttencounter SPECIES_EXEGGCUTE, 4, 5
     headbuttencounter SPECIES_EXEGGCUTE, 4, 5
@@ -1906,7 +1906,7 @@ headbuttheader  78,  18,   0
     headbuttencounter SPECIES_EXEGGCUTE, 12, 14
     headbuttencounter SPECIES_HOOTHOOT, 15, 17
     headbuttencounter SPECIES_SPINARAK, 15, 17
-    headbuttencounter SPECIES_SPINARAK, 15, 17
+    headbuttencounter SPECIES_LEDYBA, 15, 17
     headbuttencounter SPECIES_EXEGGCUTE, 15, 17
     headbuttencounter SPECIES_EXEGGCUTE, 15, 17
     headbuttencounter SPECIES_EXEGGCUTE, 15, 17
@@ -2053,7 +2053,7 @@ headbuttheader  93,   3,   0
     // normal slots
     headbuttencounter SPECIES_HOOTHOOT, 24, 26
     headbuttencounter SPECIES_SPINARAK, 24, 26
-    headbuttencounter SPECIES_SPINARAK, 24, 26
+    headbuttencounter SPECIES_LEDYBA, 24, 26
     headbuttencounter SPECIES_WURMPLE, 24, 26
     headbuttencounter SPECIES_WURMPLE, 24, 26
     headbuttencounter SPECIES_WURMPLE, 24, 26
@@ -2092,7 +2092,7 @@ headbuttheader  96,  22,   5
     headbuttencounter SPECIES_EXEGGCUTE, 10, 12
     headbuttencounter SPECIES_HOOTHOOT, 13, 15
     headbuttencounter SPECIES_SPINARAK, 13, 15
-    headbuttencounter SPECIES_SPINARAK, 13, 15
+    headbuttencounter SPECIES_LEDYBA, 13, 15
     headbuttencounter SPECIES_EXEGGCUTE, 13, 15
     headbuttencounter SPECIES_EXEGGCUTE, 13, 15
     headbuttencounter SPECIES_EXEGGCUTE, 13, 15
@@ -2428,7 +2428,7 @@ headbuttheader 151,  10,   4
     headbuttencounter SPECIES_EXEGGCUTE, 15, 16
     headbuttencounter SPECIES_HOOTHOOT, 17, 18
     headbuttencounter SPECIES_SPINARAK, 17, 18
-    headbuttencounter SPECIES_SPINARAK, 17, 18
+    headbuttencounter SPECIES_LEDYBA, 17, 18
     headbuttencounter SPECIES_EXEGGCUTE, 17, 18
     headbuttencounter SPECIES_EXEGGCUTE, 17, 18
     headbuttencounter SPECIES_EXEGGCUTE, 17, 18
@@ -2467,7 +2467,7 @@ headbuttheader 152,   6,   0
     headbuttencounter SPECIES_EXEGGCUTE, 15, 16
     headbuttencounter SPECIES_HOOTHOOT, 17, 18
     headbuttencounter SPECIES_SPINARAK, 17, 18
-    headbuttencounter SPECIES_SPINARAK, 17, 18
+    headbuttencounter SPECIES_LEDYBA, 17, 18
     headbuttencounter SPECIES_EXEGGCUTE, 17, 18
     headbuttencounter SPECIES_EXEGGCUTE, 17, 18
     headbuttencounter SPECIES_EXEGGCUTE, 17, 18
@@ -2560,7 +2560,7 @@ headbuttheader 174,  17,   0
     headbuttencounter SPECIES_EXEGGCUTE, 14, 16
     headbuttencounter SPECIES_HOOTHOOT, 17, 19
     headbuttencounter SPECIES_SPINARAK, 17, 19
-    headbuttencounter SPECIES_SPINARAK, 17, 19
+    headbuttencounter SPECIES_LEDYBA, 17, 19
     headbuttencounter SPECIES_EXEGGCUTE, 17, 19
     headbuttencounter SPECIES_EXEGGCUTE, 17, 19
     headbuttencounter SPECIES_EXEGGCUTE, 17, 19
@@ -3318,7 +3318,7 @@ headbuttheader 414,  13,   0
     headbuttencounter SPECIES_WURMPLE, 3, 4
     headbuttencounter SPECIES_HOOTHOOT, 5, 7
     headbuttencounter SPECIES_SPINARAK, 5, 7
-    headbuttencounter SPECIES_SPINARAK, 5, 7
+    headbuttencounter SPECIES_LEDYBA, 5, 7
     headbuttencounter SPECIES_WURMPLE, 5, 7
     headbuttencounter SPECIES_WURMPLE, 5, 7
     headbuttencounter SPECIES_WURMPLE, 5, 7
