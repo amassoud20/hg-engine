@@ -3278,9 +3278,9 @@ pokemon SPECIES_CUBONE
 pokemon SPECIES_RATICATE
 pokemon SPECIES_RATICATE
 pokemon SPECIES_SLUGMA
-pokemon SPECIES_MAGMAR
+pokemon SPECIES_MAGBY
 pokemon SPECIES_SLUGMA
-pokemon SPECIES_MAGMAR
+pokemon SPECIES_MAGBY
 
 // day encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
@@ -3290,8 +3290,8 @@ pokemon SPECIES_RATICATE
 pokemon SPECIES_KOFFING
 pokemon SPECIES_KOFFING
 pokemon SPECIES_CUBONE
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_MAGMAR
+pokemon SPECIES_MAGBY
+pokemon SPECIES_MAGBY
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_RATICATE
 pokemon SPECIES_ZUBAT
@@ -3308,9 +3308,9 @@ pokemon SPECIES_CUBONE
 pokemon SPECIES_RATICATE
 pokemon SPECIES_RATICATE
 pokemon SPECIES_HOUNDOUR
-pokemon SPECIES_MAGMAR
+pokemon SPECIES_MAGBY
 pokemon SPECIES_HOUNDOUR
-pokemon SPECIES_MAGMAR
+pokemon SPECIES_MAGBY
 
 // hoenn encounter slots
 pokemon SPECIES_ZIGZAGOON

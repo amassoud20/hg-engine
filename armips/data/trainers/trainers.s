@@ -31,7 +31,7 @@ trainerdata 0, "-"
     endparty
 
 trainerdata 1, "Silver"
-    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY
     trainerclass CLASS_RIVAL
     nummons 5
     item ITEM_NONE
@@ -51,6 +51,7 @@ trainerdata 1, "Silver"
         move MOVE_CONFUSE_RAY
         move MOVE_CURSE
         move MOVE_SPITE
+        ability ABILITY_LEVITATE
         ballseal 0
 
         ivs 30
@@ -61,6 +62,7 @@ trainerdata 1, "Silver"
         move MOVE_KINESIS
         move MOVE_DISABLE
         move MOVE_REFLECT
+        ability ABILITY_MAGIC_GUARD
         ballseal 0
 
         ivs 30
@@ -71,6 +73,7 @@ trainerdata 1, "Silver"
         move MOVE_SUPERSONIC
         move MOVE_ABSORB
         move MOVE_ASTONISH
+        ability ABILITY_INNER_FOCUS
         ballseal 0
 
         ivs 30
@@ -81,6 +84,7 @@ trainerdata 1, "Silver"
         move MOVE_ASTONISH
         move MOVE_GUST
         move MOVE_HAZE
+        ability ABILITY_INSOMNIA
         ballseal 0
 
         // mon 2
@@ -92,6 +96,7 @@ trainerdata 1, "Silver"
         move MOVE_TACKLE
         move MOVE_POISON_POWDER
         move MOVE_REFLECT
+        ability ABILITY_OVERGROW
         ballseal 0
     endparty
 
@@ -1049,7 +1054,7 @@ trainerdata 30, "Whitney"
     endentry
 
     party 30
-    ivs 100
+        ivs 100
         abilityslot 0
         level 21
         pokemon SPECIES_TEDDIURSA
@@ -1067,7 +1072,7 @@ trainerdata 30, "Whitney"
         pokemon SPECIES_JIGGLYPUFF
         item ITEM_NONE
         move MOVE_DISARMING_VOICE
-        move MOVE_COVET
+        move MOVE_HYPER_VOICE
         move MOVE_ATTRACT
         move MOVE_WISH
         ability ABILITY_CUTE_CHARM
@@ -1076,12 +1081,12 @@ trainerdata 30, "Whitney"
         ivs 100
         abilityslot 0
         level 22
-        pokemon SPECIES_CLEFAIRY
+        pokemon SPECIES_CLEFABLE
         item ITEM_SITRUS_BERRY
-        move MOVE_DISARMING_VOICE
+        move MOVE_MOONBLAST
+        move MOVE_ICE_BEAM
         move MOVE_REFLECT
         move MOVE_ATTRACT
-        move MOVE_METRONOME
         ability ABILITY_MAGIC_GUARD
         ballseal 0
 
@@ -1123,9 +1128,9 @@ trainerdata 30, "Whitney"
     endparty
 
 trainerdata 31, "Morty"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY
     trainerclass CLASS_LEADER_0
-    nummons 4
+    nummons 6
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -1135,52 +1140,76 @@ trainerdata 31, "Morty"
     endentry
 
     party 31
-        // mon 0
         ivs 100
         abilityslot 0
-        level 21
-        pokemon SPECIES_GASTLY
-        item ITEM_NONE
-        move MOVE_LICK
-        move MOVE_SPITE
-        move MOVE_MEAN_LOOK
-        move MOVE_CURSE
-        ballseal 0
-
-        // mon 1
-        ivs 100
-        abilityslot 0
-        level 21
+        level 27
         pokemon SPECIES_HAUNTER
         item ITEM_NONE
-        move MOVE_HYPNOSIS
+        move MOVE_SLUDGE_BOMB
         move MOVE_DREAM_EATER
-        move MOVE_CURSE
-        move MOVE_NIGHTMARE
+        move MOVE_MEAN_LOOK
+        move MOVE_HYPNOSIS
+        ability ABILITY_LEVITATE
         ballseal 0
 
-        // mon 2
         ivs 100
         abilityslot 0
-        level 25
+        level 27
+        pokemon SPECIES_MISDREAVUS
+        item ITEM_NONE
+        move MOVE_SHADOW_BALL
+        move MOVE_CONFUSION
+        move MOVE_PERISH_SONG
+        move MOVE_WILL_O_WISP
+        ability ABILITY_LEVITATE
+        ballseal 0
+
+        ivs 100
+        abilityslot 0
+        level 28
+        pokemon SPECIES_STANTLER
+        item ITEM_NONE
+        move MOVE_BODY_SLAM
+        move MOVE_SHADOW_BALL
+        move MOVE_CONFUSE_RAY
+        move MOVE_HYPNOSIS
+        ability ABILITY_INTIMIDATE
+        ballseal 0
+
+        ivs 100
+        abilityslot 0
+        level 28
+        pokemon SPECIES_PARASECT
+        item ITEM_NONE
+        move MOVE_FURY_CUTTER
+        move MOVE_CROSS_POISON
+        move MOVE_POISON_POWDER
+        move MOVE_STUN_SPORE
+        ability ABILITY_EFFECT_SPORE
+        ballseal 0
+
+        ivs 100
+        abilityslot 0
+        level 29
+        pokemon SPECIES_MISMAGIUS
+        item ITEM_NONE
+        move MOVE_SHADOW_BALL
+        move MOVE_PSYBEAM
+        move MOVE_MYSTICAL_FIRE
+        move MOVE_POWER_GEM
+        ability ABILITY_LEVITATE
+        ballseal 0
+
+        ivs 100
+        abilityslot 0
+        level 29
         pokemon SPECIES_GENGAR
         item ITEM_SITRUS_BERRY
-        move MOVE_HYPNOSIS
         move MOVE_SHADOW_BALL
-        move MOVE_MEAN_LOOK
-        move MOVE_SUCKER_PUNCH
-        ballseal 0
-
-        // mon 3
-        ivs 100
-        abilityslot 0
-        level 23
-        pokemon SPECIES_HAUNTER
-        item ITEM_NONE
-        move MOVE_CURSE
-        move MOVE_MEAN_LOOK
-        move MOVE_SUCKER_PUNCH
-        move MOVE_NIGHT_SHADE
+        move MOVE_THUNDERBOLT
+        move MOVE_GIGA_DRAIN
+        move MOVE_HYPNOSIS
+        ability ABILITY_CURSED_BODY
         ballseal 0
     endparty
 
@@ -1668,21 +1697,21 @@ trainerdata 46, "Martha"
         // mon 0
         ivs 10
         abilityslot 0
-        level 18
+        level 22
         pokemon SPECIES_GASTLY
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 0
-        level 20
+        level 25
         pokemon SPECIES_HAUNTER
         ballseal 0
 
         // mon 2
         ivs 10
         abilityslot 0
-        level 20
+        level 22
         pokemon SPECIES_GASTLY
         ballseal 0
     endparty
@@ -2939,14 +2968,14 @@ trainerdata 89, "Grace"
         // mon 0
         ivs 10
         abilityslot 0
-        level 20
-        pokemon SPECIES_HAUNTER
+        level 23
+        pokemon SPECIES_MISDREAVUS
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 0
-        level 20
+        level 25
         pokemon SPECIES_HAUNTER
         ballseal 0
     endparty
@@ -8801,9 +8830,9 @@ trainerdata 262, "Mickey"
     endparty
 
 trainerdata 263, "Silver"
-    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY
     trainerclass CLASS_RIVAL
-    nummons 4
+    nummons 6
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -8813,48 +8842,70 @@ trainerdata 263, "Silver"
     endentry
 
     party 263
-        // mon 0
         ivs 80
         abilityslot 0
-        level 20
-        pokemon SPECIES_GASTLY
-        move MOVE_LICK
+        level 25
+        pokemon SPECIES_HAUNTER
+        move MOVE_HEX
+        move MOVE_PAYBACK
         move MOVE_CONFUSE_RAY
-        move MOVE_MEAN_LOOK
         move MOVE_CURSE
+        ability ABILITY_LEVITATE
         ballseal 0
 
-        // mon 1
         ivs 80
         abilityslot 0
-        level 18
-        pokemon SPECIES_MAGNEMITE
-        move MOVE_THUNDER_WAVE
-        move MOVE_THUNDER_SHOCK
-        move MOVE_SUPERSONIC
-        move MOVE_SONIC_BOOM
-        ballseal 0
-
-        // mon 2
-        ivs 80
-        abilityslot 0
-        level 20
-        pokemon SPECIES_ZUBAT
-        move MOVE_ASTONISH
-        move MOVE_SUPERSONIC
-        move MOVE_BITE
-        move MOVE_WING_ATTACK
-        ballseal 0
-
-        // mon 3
-        ivs 80
-        abilityslot 0
-        level 22
-        pokemon SPECIES_BAYLEEF
-        move MOVE_SYNTHESIS
+        level 25
+        pokemon SPECIES_KADABRA
+        move MOVE_PSYBEAM
+        move MOVE_SWIFT
         move MOVE_REFLECT
-        move MOVE_MAGICAL_LEAF
+        move MOVE_RECOVER
+        ability ABILITY_MAGIC_GUARD
+        ballseal 0
+
+        ivs 80
+        abilityslot 0
+        level 26
+        pokemon SPECIES_GOLBAT
+        move MOVE_POISON_FANG
+        move MOVE_AIR_CUTTER
+        move MOVE_ABSORB
+        move MOVE_ASTONISH
+        ability ABILITY_INNER_FOCUS
+        ballseal 0
+
+        ivs 80
+        abilityslot 0
+        level 26
+        pokemon SPECIES_MURKROW
+        move MOVE_ASSURANCE
+        move MOVE_WING_ATTACK
+        move MOVE_ASTONISH
+        move MOVE_NIGHT_SHADE
+        ability ABILITY_INSOMNIA
+        ballseal 0
+
+        ivs 80
+        abilityslot 0
+        level 26
+        pokemon SPECIES_MAGNEMITE
+        move MOVE_THUNDER_SHOCK
+        move MOVE_GYRO_BALL
+        move MOVE_SUPERSONIC
+        move MOVE_THUNDER_WAVE
+        ability ABILITY_STURDY
+        ballseal 0
+
+        ivs 80
+        abilityslot 0
+        level 27
+        pokemon SPECIES_BAYLEEF
+        move MOVE_RAZOR_LEAF
+        move MOVE_HEADBUTT
         move MOVE_POISON_POWDER
+        move MOVE_LEECH_SEED
+        ability ABILITY_OVERGROW
         ballseal 0
     endparty
 
@@ -8960,7 +9011,7 @@ trainerdata 265, "Silver"
     endparty
 
 trainerdata 266, "Silver"
-    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY
     trainerclass CLASS_RIVAL
     nummons 5
     item ITEM_NONE
@@ -8980,6 +9031,7 @@ trainerdata 266, "Silver"
         move MOVE_CONFUSE_RAY
         move MOVE_CURSE
         move MOVE_SPITE
+        ability ABILITY_LEVITATE
         ballseal 0
 
         ivs 30
@@ -8990,6 +9042,7 @@ trainerdata 266, "Silver"
         move MOVE_KINESIS
         move MOVE_DISABLE
         move MOVE_REFLECT
+        ability ABILITY_MAGIC_GUARD
         ballseal 0
 
         ivs 30
@@ -9000,6 +9053,7 @@ trainerdata 266, "Silver"
         move MOVE_SUPERSONIC
         move MOVE_ABSORB
         move MOVE_ASTONISH
+        ability ABILITY_INNER_FOCUS
         ballseal 0
 
         ivs 30
@@ -9010,6 +9064,7 @@ trainerdata 266, "Silver"
         move MOVE_ASTONISH
         move MOVE_GUST
         move MOVE_HAZE
+        ability ABILITY_INSOMNIA
         ballseal 0
 
         // mon 2
@@ -9021,13 +9076,14 @@ trainerdata 266, "Silver"
         move MOVE_QUICK_ATTACK
         move MOVE_EMBER
         move MOVE_SMOKESCREEN
+        ability ABILITY_BLAZE
         ballseal 0
     endparty
 
 trainerdata 267, "Silver"
-    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY
     trainerclass CLASS_RIVAL
-    nummons 4
+    nummons 6
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -9037,48 +9093,70 @@ trainerdata 267, "Silver"
     endentry
 
     party 267
-        // mon 0
         ivs 80
         abilityslot 0
-        level 20
-        pokemon SPECIES_GASTLY
-        move MOVE_LICK
+        level 25
+        pokemon SPECIES_HAUNTER
+        move MOVE_HEX
+        move MOVE_PAYBACK
         move MOVE_CONFUSE_RAY
-        move MOVE_MEAN_LOOK
         move MOVE_CURSE
+        ability ABILITY_LEVITATE
         ballseal 0
 
-        // mon 1
         ivs 80
         abilityslot 0
-        level 18
-        pokemon SPECIES_MAGNEMITE
-        move MOVE_THUNDER_WAVE
-        move MOVE_THUNDER_SHOCK
-        move MOVE_SUPERSONIC
-        move MOVE_SONIC_BOOM
+        level 25
+        pokemon SPECIES_KADABRA
+        move MOVE_PSYBEAM
+        move MOVE_SWIFT
+        move MOVE_REFLECT
+        move MOVE_RECOVER
+        ability ABILITY_MAGIC_GUARD
         ballseal 0
 
-        // mon 2
         ivs 80
         abilityslot 0
-        level 20
-        pokemon SPECIES_ZUBAT
+        level 26
+        pokemon SPECIES_GOLBAT
+        move MOVE_POISON_FANG
+        move MOVE_AIR_CUTTER
+        move MOVE_ABSORB
         move MOVE_ASTONISH
-        move MOVE_SUPERSONIC
-        move MOVE_BITE
-        move MOVE_WING_ATTACK
+        ability ABILITY_INNER_FOCUS
         ballseal 0
 
-        // mon 3
         ivs 80
         abilityslot 0
-        level 22
+        level 26
+        pokemon SPECIES_MURKROW
+        move MOVE_ASSURANCE
+        move MOVE_WING_ATTACK
+        move MOVE_ASTONISH
+        move MOVE_NIGHT_SHADE
+        ability ABILITY_INSOMNIA
+        ballseal 0
+
+        ivs 80
+        abilityslot 0
+        level 26
+        pokemon SPECIES_MAGNEMITE
+        move MOVE_THUNDER_SHOCK
+        move MOVE_GYRO_BALL
+        move MOVE_SUPERSONIC
+        move MOVE_THUNDER_WAVE
+        ability ABILITY_STURDY
+        ballseal 0
+
+        ivs 80
+        abilityslot 0
+        level 27
         pokemon SPECIES_QUILAVA
         move MOVE_FLAME_WHEEL
+        move MOVE_HEADBUTT
+        move MOVE_DIG
         move MOVE_SMOKESCREEN
-        move MOVE_EMBER
-        move MOVE_QUICK_ATTACK
+        ability ABILITY_BLAZE
         ballseal 0
     endparty
 
@@ -9163,7 +9241,7 @@ trainerdata 268, "Silver"
     endparty
 
 trainerdata 269, "Silver"
-    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY
     trainerclass CLASS_RIVAL
     nummons 5
     item ITEM_NONE
@@ -9183,6 +9261,7 @@ trainerdata 269, "Silver"
         move MOVE_CONFUSE_RAY
         move MOVE_CURSE
         move MOVE_SPITE
+        ability ABILITY_LEVITATE
         ballseal 0
 
         ivs 30
@@ -9193,6 +9272,7 @@ trainerdata 269, "Silver"
         move MOVE_KINESIS
         move MOVE_DISABLE
         move MOVE_REFLECT
+        ability ABILITY_MAGIC_GUARD
         ballseal 0
 
         ivs 30
@@ -9203,6 +9283,7 @@ trainerdata 269, "Silver"
         move MOVE_SUPERSONIC
         move MOVE_ABSORB
         move MOVE_ASTONISH
+        ability ABILITY_INNER_FOCUS
         ballseal 0
 
         ivs 30
@@ -9213,6 +9294,7 @@ trainerdata 269, "Silver"
         move MOVE_ASTONISH
         move MOVE_GUST
         move MOVE_HAZE
+        ability ABILITY_INSOMNIA
         ballseal 0
 
         // mon 2
@@ -9224,13 +9306,14 @@ trainerdata 269, "Silver"
         move MOVE_ICE_FANG
         move MOVE_BITE
         move MOVE_SCRATCH
+        ability ABILITY_TORRENT
         ballseal 0
     endparty
 
 trainerdata 270, "Silver"
-    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY
     trainerclass CLASS_RIVAL
-    nummons 4
+    nummons 6
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -9240,48 +9323,70 @@ trainerdata 270, "Silver"
     endentry
 
     party 270
-        // mon 0
         ivs 80
         abilityslot 0
-        level 20
-        pokemon SPECIES_GASTLY
-        move MOVE_LICK
+        level 25
+        pokemon SPECIES_HAUNTER
+        move MOVE_HEX
+        move MOVE_PAYBACK
         move MOVE_CONFUSE_RAY
-        move MOVE_MEAN_LOOK
         move MOVE_CURSE
+        ability ABILITY_LEVITATE
         ballseal 0
 
-        // mon 1
         ivs 80
         abilityslot 0
-        level 18
-        pokemon SPECIES_MAGNEMITE
-        move MOVE_THUNDER_WAVE
-        move MOVE_THUNDER_SHOCK
-        move MOVE_SUPERSONIC
-        move MOVE_SONIC_BOOM
+        level 25
+        pokemon SPECIES_KADABRA
+        move MOVE_PSYBEAM
+        move MOVE_SWIFT
+        move MOVE_REFLECT
+        move MOVE_RECOVER
+        ability ABILITY_MAGIC_GUARD
         ballseal 0
 
-        // mon 2
         ivs 80
         abilityslot 0
-        level 20
-        pokemon SPECIES_ZUBAT
+        level 26
+        pokemon SPECIES_GOLBAT
+        move MOVE_POISON_FANG
+        move MOVE_AIR_CUTTER
+        move MOVE_ABSORB
         move MOVE_ASTONISH
-        move MOVE_SUPERSONIC
-        move MOVE_BITE
-        move MOVE_WING_ATTACK
+        ability ABILITY_INNER_FOCUS
         ballseal 0
 
-        // mon 3
         ivs 80
         abilityslot 0
-        level 22
+        level 26
+        pokemon SPECIES_MURKROW
+        move MOVE_ASSURANCE
+        move MOVE_WING_ATTACK
+        move MOVE_ASTONISH
+        move MOVE_NIGHT_SHADE
+        ability ABILITY_INSOMNIA
+        ballseal 0
+
+        ivs 80
+        abilityslot 0
+        level 26
+        pokemon SPECIES_MAGNEMITE
+        move MOVE_THUNDER_SHOCK
+        move MOVE_GYRO_BALL
+        move MOVE_SUPERSONIC
+        move MOVE_THUNDER_WAVE
+        ability ABILITY_STURDY
+        ballseal 0
+
+        ivs 80
+        abilityslot 0
+        level 27
         pokemon SPECIES_CROCONAW
-        move MOVE_SCARY_FACE
-        move MOVE_ICE_FANG
         move MOVE_WATER_GUN
+        move MOVE_ICE_FANG
         move MOVE_BITE
+        move MOVE_HEADBUTT
+        ability ABILITY_TORRENT
         ballseal 0
     endparty
 
@@ -16910,7 +17015,7 @@ trainerdata 493, "Edith"
         // mon 0
         ivs 10
         abilityslot 0
-        level 22
+        level 28
         pokemon SPECIES_HAUNTER
         ballseal 0
     endparty
@@ -16931,35 +17036,35 @@ trainerdata 494, "Georgina"
         // mon 0
         ivs 10
         abilityslot 0
-        level 16
+        level 18
         pokemon SPECIES_GASTLY
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
+        level 20
+        pokemon SPECIES_MISDREAVUS
         ballseal 0
 
         // mon 2
         ivs 10
         abilityslot 0
-        level 16
+        level 20
         pokemon SPECIES_GASTLY
         ballseal 0
 
         // mon 3
         ivs 10
         abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
+        level 22
+        pokemon SPECIES_MISDREAVUS
         ballseal 0
 
         // mon 4
         ivs 10
         abilityslot 0
-        level 16
+        level 22
         pokemon SPECIES_GASTLY
         ballseal 0
     endparty
