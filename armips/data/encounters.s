@@ -74,11 +74,11 @@ pokemon SPECIES_NONE
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_TENTACOOL, 15, 25
-encounter SPECIES_TENTACOOL, 10, 20
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
+encounter SPECIES_TENTACOOL, 20, 25
+encounter SPECIES_TENTACOOL, 20, 25
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -95,7 +95,7 @@ encounter SPECIES_TENTACOOL, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_TENTACOOL, 20, 20
 encounter SPECIES_CHINCHOU, 20, 20
 encounter SPECIES_SHELLDER, 20, 20
@@ -298,11 +298,11 @@ pokemon SPECIES_NONE
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_TENTACOOL, 15, 25
-encounter SPECIES_TENTACOOL, 10, 20
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
+encounter SPECIES_TENTACOOL, 20, 25
+encounter SPECIES_TENTACOOL, 20, 25
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -319,7 +319,7 @@ encounter SPECIES_KRABBY, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_CORSOLA, 20, 20
@@ -327,11 +327,11 @@ encounter SPECIES_KRABBY, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_KRABBY, 40, 40
-encounter SPECIES_CORSOLA, 40, 40
-encounter SPECIES_KRABBY, 40, 40
 encounter SPECIES_KINGLER, 40, 40
-encounter SPECIES_KRABBY, 40, 40
+encounter SPECIES_CORSOLA, 40, 40
+encounter SPECIES_KINGLER, 40, 40
+encounter SPECIES_KINGLER, 40, 40
+encounter SPECIES_KINGLER, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -410,10 +410,10 @@ pokemon SPECIES_BIDOOF
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_POLIWAG, 15, 25
-encounter SPECIES_POLIWAG, 10, 20
-encounter SPECIES_POLIWHIRL, 15, 25
-encounter SPECIES_POLIWHIRL, 15, 25
+encounter SPECIES_POLIWAG, 20, 24
+encounter SPECIES_POLIWAG, 20, 24
+encounter SPECIES_POLIWHIRL, 25, 29
+encounter SPECIES_POLIWHIRL, 25, 29
 encounter SPECIES_POLIWHIRL, 32, 32
 
 // rock smash encounters
@@ -431,7 +431,7 @@ encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
@@ -439,11 +439,11 @@ encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_PIDGEY
@@ -522,10 +522,10 @@ pokemon SPECIES_BIDOOF
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_POLIWAG, 15, 25
-encounter SPECIES_POLIWAG, 10, 20
-encounter SPECIES_POLIWHIRL, 15, 25
-encounter SPECIES_POLIWHIRL, 15, 25
+encounter SPECIES_POLIWAG, 20, 24
+encounter SPECIES_POLIWAG, 20, 24
+encounter SPECIES_POLIWHIRL, 25, 29
+encounter SPECIES_POLIWHIRL, 25, 29
 encounter SPECIES_POLIWHIRL, 32, 32
 
 // rock smash encounters
@@ -543,7 +543,7 @@ encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
@@ -551,11 +551,11 @@ encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_PIDGEY
@@ -634,11 +634,11 @@ pokemon SPECIES_NONE
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_POLIWAG, 15, 25
-encounter SPECIES_POLIWAG, 10, 20
-encounter SPECIES_POLIWHIRL, 15, 25
-encounter SPECIES_POLIWHIRL, 15, 25
-encounter SPECIES_POLIWHIRL, 15, 25
+encounter SPECIES_POLIWAG, 20, 24
+encounter SPECIES_POLIWAG, 20, 24
+encounter SPECIES_POLIWHIRL, 25, 29
+encounter SPECIES_POLIWHIRL, 25, 29
+encounter SPECIES_POLIWHIRL, 25, 29
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -655,7 +655,7 @@ encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
@@ -663,11 +663,11 @@ encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -970,10 +970,10 @@ pokemon SPECIES_BIDOOF
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_TENTACOOL, 10, 20
+encounter SPECIES_TENTACOOL, 20, 25
 encounter SPECIES_QUAGSIRE, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
 encounter SPECIES_TENTACRUEL, 36, 36
 
 // rock smash encounters
@@ -991,7 +991,7 @@ encounter SPECIES_TENTACOOL, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_TENTACOOL, 20, 20
 encounter SPECIES_TENTACOOL, 20, 20
 encounter SPECIES_TENTACOOL, 20, 20
@@ -1001,9 +1001,9 @@ encounter SPECIES_QWILFISH, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_TENTACOOL, 40, 40
 encounter SPECIES_TENTACOOL, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_QWILFISH, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_BELLSPROUT
@@ -1103,7 +1103,7 @@ encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
@@ -1111,11 +1111,11 @@ encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_NATU
@@ -1663,7 +1663,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -1673,9 +1673,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_GEODUDE
@@ -1775,7 +1775,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -1785,9 +1785,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_GEODUDE
@@ -1866,11 +1866,11 @@ pokemon SPECIES_CHINGLING
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_TENTACOOL, 10, 20
+encounter SPECIES_TENTACOOL, 20, 25
 encounter SPECIES_QUAGSIRE, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -1887,7 +1887,7 @@ encounter SPECIES_KRABBY, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_CORSOLA, 20, 20
@@ -1895,11 +1895,11 @@ encounter SPECIES_KRABBY, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_KRABBY, 40, 40
-encounter SPECIES_CORSOLA, 40, 40
-encounter SPECIES_KRABBY, 40, 40
 encounter SPECIES_KINGLER, 40, 40
-encounter SPECIES_KRABBY, 40, 40
+encounter SPECIES_CORSOLA, 40, 40
+encounter SPECIES_KINGLER, 40, 40
+encounter SPECIES_KINGLER, 40, 40
+encounter SPECIES_KINGLER, 40, 40
 
 // swarm grass
 pokemon SPECIES_ZUBAT
@@ -2111,7 +2111,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -2121,9 +2121,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_ZUBAT
@@ -2223,7 +2223,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -2233,9 +2233,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_ZUBAT
@@ -2335,7 +2335,7 @@ encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
@@ -2343,11 +2343,11 @@ encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_CATERPIE
@@ -2426,11 +2426,11 @@ pokemon SPECIES_BIDOOF
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_TENTACOOL, 15, 25
-encounter SPECIES_TENTACOOL, 10, 20
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 29, 29
+encounter SPECIES_TENTACOOL, 20, 25
+encounter SPECIES_TENTACOOL, 20, 25
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -2447,7 +2447,7 @@ encounter SPECIES_KRABBY, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_CORSOLA, 20, 20
@@ -2455,11 +2455,11 @@ encounter SPECIES_KRABBY, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_KRABBY, 40, 40
-encounter SPECIES_CORSOLA, 40, 40
-encounter SPECIES_KRABBY, 40, 40
 encounter SPECIES_KINGLER, 40, 40
-encounter SPECIES_KRABBY, 40, 40
+encounter SPECIES_CORSOLA, 40, 40
+encounter SPECIES_KINGLER, 40, 40
+encounter SPECIES_KINGLER, 40, 40
+encounter SPECIES_KINGLER, 40, 40
 
 // swarm grass
 pokemon SPECIES_RALTS
@@ -2559,7 +2559,7 @@ encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
@@ -2567,11 +2567,11 @@ encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_YANMA
@@ -3098,11 +3098,11 @@ pokemon SPECIES_NONE
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_POLIWAG, 15, 25
-encounter SPECIES_POLIWAG, 10, 20
-encounter SPECIES_POLIWHIRL, 15, 25
-encounter SPECIES_POLIWHIRL, 15, 25
-encounter SPECIES_POLIWHIRL, 15, 25
+encounter SPECIES_POLIWAG, 20, 24
+encounter SPECIES_POLIWAG, 20, 24
+encounter SPECIES_POLIWHIRL, 25, 29
+encounter SPECIES_POLIWHIRL, 25, 29
+encounter SPECIES_POLIWHIRL, 25, 29
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -3119,7 +3119,7 @@ encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
@@ -3127,11 +3127,11 @@ encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -4273,14 +4273,14 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 16, 16, 16, 16, 16, 16, 16, 16, 13, 13, 13, 13
+walklevels 27, 27, 27, 27, 27, 27, 27, 27, 24, 24, 24, 24
 
 // morning encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
+pokemon SPECIES_MEOWTH
+pokemon SPECIES_DODUO
+pokemon SPECIES_MEOWTH
+pokemon SPECIES_DODUO
 pokemon SPECIES_MAGNEMITE
 pokemon SPECIES_MAGNEMITE
 pokemon SPECIES_FARFETCHD
@@ -4292,10 +4292,10 @@ pokemon SPECIES_SNUBBULL
 
 // day encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
+pokemon SPECIES_MEOWTH
+pokemon SPECIES_DODUO
+pokemon SPECIES_MEOWTH
+pokemon SPECIES_DODUO
 pokemon SPECIES_MAGNEMITE
 pokemon SPECIES_MAGNEMITE
 pokemon SPECIES_FARFETCHD
@@ -4307,14 +4307,14 @@ pokemon SPECIES_SNUBBULL
 
 // night encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
+pokemon SPECIES_MEOWTH
+pokemon SPECIES_DODUO
+pokemon SPECIES_MEOWTH
+pokemon SPECIES_DODUO
 pokemon SPECIES_MAGNEMITE
 pokemon SPECIES_MAGNEMITE
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
+pokemon SPECIES_MEOWTH
+pokemon SPECIES_MEOWTH
 pokemon SPECIES_MILTANK
 pokemon SPECIES_TAUROS
 pokemon SPECIES_MILTANK
@@ -4385,14 +4385,14 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 16, 17, 16, 17, 16, 16, 16, 16, 15, 15, 15, 15
+walklevels 27, 28, 27, 28, 27, 27, 27, 27, 26, 26, 26, 26
 
 // morning encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
+pokemon SPECIES_MEOWTH
+pokemon SPECIES_PONYTA
+pokemon SPECIES_MEOWTH
+pokemon SPECIES_PONYTA
 pokemon SPECIES_MAGNEMITE
 pokemon SPECIES_MAGNEMITE
 pokemon SPECIES_FARFETCHD
@@ -4404,10 +4404,10 @@ pokemon SPECIES_TAUROS
 
 // day encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
+pokemon SPECIES_MEOWTH
+pokemon SPECIES_PONYTA
+pokemon SPECIES_MEOWTH
+pokemon SPECIES_PONYTA
 pokemon SPECIES_MAGNEMITE
 pokemon SPECIES_MAGNEMITE
 pokemon SPECIES_FARFETCHD
@@ -4419,14 +4419,14 @@ pokemon SPECIES_TAUROS
 
 // night encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
+pokemon SPECIES_MEOWTH
+pokemon SPECIES_PONYTA
+pokemon SPECIES_MEOWTH
+pokemon SPECIES_PONYTA
 pokemon SPECIES_MAGNEMITE
 pokemon SPECIES_MAGNEMITE
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
+pokemon SPECIES_NOCTOWL
+pokemon SPECIES_NOCTOWL
 pokemon SPECIES_MILTANK
 pokemon SPECIES_TAUROS
 pokemon SPECIES_MILTANK
@@ -4554,11 +4554,11 @@ pokemon SPECIES_NONE
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_TENTACOOL, 15, 25
-encounter SPECIES_TENTACOOL, 10, 20
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
+encounter SPECIES_TENTACOOL, 20, 25
+encounter SPECIES_TENTACOOL, 20, 25
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -4575,7 +4575,7 @@ encounter SPECIES_KRABBY, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_CORSOLA, 20, 20
@@ -4583,11 +4583,11 @@ encounter SPECIES_KRABBY, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_KRABBY, 40, 40
-encounter SPECIES_CORSOLA, 40, 40
-encounter SPECIES_KRABBY, 40, 40
 encounter SPECIES_KINGLER, 40, 40
-encounter SPECIES_KRABBY, 40, 40
+encounter SPECIES_CORSOLA, 40, 40
+encounter SPECIES_KINGLER, 40, 40
+encounter SPECIES_KINGLER, 40, 40
+encounter SPECIES_KINGLER, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -4666,11 +4666,11 @@ pokemon SPECIES_NONE
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_TENTACOOL, 15, 25
-encounter SPECIES_TENTACOOL, 10, 20
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
+encounter SPECIES_TENTACOOL, 20, 25
+encounter SPECIES_TENTACOOL, 20, 25
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -4687,7 +4687,7 @@ encounter SPECIES_KRABBY, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_CORSOLA, 20, 20
@@ -4695,11 +4695,11 @@ encounter SPECIES_KRABBY, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_KRABBY, 40, 40
-encounter SPECIES_CORSOLA, 40, 40
-encounter SPECIES_KRABBY, 40, 40
 encounter SPECIES_KINGLER, 40, 40
-encounter SPECIES_KRABBY, 40, 40
+encounter SPECIES_CORSOLA, 40, 40
+encounter SPECIES_KINGLER, 40, 40
+encounter SPECIES_KINGLER, 40, 40
+encounter SPECIES_KINGLER, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -4778,11 +4778,11 @@ pokemon SPECIES_NONE
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_TENTACOOL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_MANTINE, 15, 25
-encounter SPECIES_MANTINE, 15, 25
-encounter SPECIES_MANTINE, 15, 25
+encounter SPECIES_TENTACOOL, 20, 25
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_MANTYKE, 15, 20
+encounter SPECIES_MANTINE, 25, 30
+encounter SPECIES_MANTINE, 25, 30
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -4799,7 +4799,7 @@ encounter SPECIES_TENTACOOL, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_TENTACOOL, 20, 20
 encounter SPECIES_CHINCHOU, 20, 20
 encounter SPECIES_SHELLDER, 20, 20
@@ -4890,11 +4890,11 @@ pokemon SPECIES_CHINGLING
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_TENTACOOL, 15, 25
+encounter SPECIES_TENTACOOL, 20, 25
 encounter SPECIES_HORSEA, 10, 20
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -4911,7 +4911,7 @@ encounter SPECIES_KRABBY, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_HORSEA, 20, 20
@@ -4919,8 +4919,8 @@ encounter SPECIES_KRABBY, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_KRABBY, 40, 40
-encounter SPECIES_HORSEA, 40, 40
+encounter SPECIES_KINGLER, 40, 40
+encounter SPECIES_SEADRA, 40, 40
 encounter SPECIES_KINGLER, 40, 40
 encounter SPECIES_SEADRA, 40, 40
 encounter SPECIES_KINGLER, 40, 40
@@ -5227,7 +5227,7 @@ pokemon SPECIES_CHINGLING
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
 encounter SPECIES_HORSEA, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
+encounter SPECIES_TENTACRUEL, 30, 35
 encounter SPECIES_SEADRA, 15, 25
 encounter SPECIES_SEADRA, 15, 25
 encounter SPECIES_SEADRA, 30, 30
@@ -5247,7 +5247,7 @@ encounter SPECIES_KRABBY, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_HORSEA, 20, 20
@@ -5255,8 +5255,8 @@ encounter SPECIES_KRABBY, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_KRABBY, 40, 40
-encounter SPECIES_HORSEA, 40, 40
+encounter SPECIES_KINGLER, 40, 40
+encounter SPECIES_SEADRA, 40, 40
 encounter SPECIES_KINGLER, 40, 40
 encounter SPECIES_SEADRA, 40, 40
 encounter SPECIES_KINGLER, 40, 40
@@ -5786,15 +5786,15 @@ pokemon SPECIES_NONE
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_TENTACOOL, 15, 25
-encounter SPECIES_TENTACOOL, 10, 20
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
+encounter SPECIES_TENTACOOL, 20, 25
+encounter SPECIES_TENTACOOL, 20, 25
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
 
 // rock smash encounters
 // probabilities:  90, 10
-encounter SPECIES_KRABBY, 15, 24
+encounter SPECIES_KRABBY, 22, 27
 encounter SPECIES_SHUCKLE, 23, 28
 
 // old rod encounters
@@ -5807,7 +5807,7 @@ encounter SPECIES_KRABBY, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_CORSOLA, 20, 20
@@ -5815,11 +5815,11 @@ encounter SPECIES_KRABBY, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_KRABBY, 40, 40
-encounter SPECIES_CORSOLA, 40, 40
-encounter SPECIES_KRABBY, 40, 40
 encounter SPECIES_KINGLER, 40, 40
-encounter SPECIES_KRABBY, 40, 40
+encounter SPECIES_CORSOLA, 40, 40
+encounter SPECIES_KINGLER, 40, 40
+encounter SPECIES_KINGLER, 40, 40
+encounter SPECIES_KINGLER, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -5919,7 +5919,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -5929,9 +5929,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_MANKEY
@@ -6031,7 +6031,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -6041,9 +6041,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_MARILL
@@ -6255,7 +6255,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -6265,9 +6265,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_GRAVELER
@@ -6367,7 +6367,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -6377,9 +6377,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_ZUBAT
@@ -6459,9 +6459,9 @@ pokemon SPECIES_BIDOOF
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
 encounter SPECIES_MAGIKARP, 15, 25
-encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 5, 15
-encounter SPECIES_MAGIKARP, 5, 15
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
 encounter SPECIES_MAGIKARP, 50, 50
 
 // rock smash encounters
@@ -6479,7 +6479,7 @@ encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
@@ -6487,11 +6487,11 @@ encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_FLAAFFY
@@ -6570,11 +6570,11 @@ pokemon SPECIES_NONE
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 5, 15
-encounter SPECIES_GYARADOS, 10, 20
-encounter SPECIES_GYARADOS, 10, 20
-encounter SPECIES_GYARADOS, 10, 20
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_GYARADOS, 20, 25
+encounter SPECIES_GYARADOS, 20, 25
+encounter SPECIES_GYARADOS, 20, 25
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -6591,19 +6591,19 @@ encounter SPECIES_MAGIKARP, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
+encounter SPECIES_MAGIKARP, 19, 19
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GYARADOS, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 40, 40
 encounter SPECIES_GYARADOS, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -6683,10 +6683,10 @@ pokemon SPECIES_BIDOOF
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
 encounter SPECIES_POLIWAG, 20, 30
-encounter SPECIES_POLIWAG, 15, 25
-encounter SPECIES_POLIWHIRL, 20, 30
-encounter SPECIES_POLIWHIRL, 20, 30
-encounter SPECIES_POLIWHIRL, 20, 30
+encounter SPECIES_POLIWAG, 20, 24
+encounter SPECIES_POLIWHIRL, 25, 30
+encounter SPECIES_POLIWHIRL, 25, 30
+encounter SPECIES_POLIWHIRL, 25, 30
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -6703,7 +6703,7 @@ encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
@@ -6711,11 +6711,11 @@ encounter SPECIES_REMORAID, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_REMORAID, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_TANGELA
@@ -7354,11 +7354,11 @@ pokemon SPECIES_NONE
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 5, 15
-encounter SPECIES_MAGIKARP, 2, 10
-encounter SPECIES_MAGIKARP, 2, 10
-encounter SPECIES_MAGIKARP, 2, 10
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -7375,7 +7375,7 @@ encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
@@ -7383,11 +7383,11 @@ encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -7466,8 +7466,8 @@ pokemon SPECIES_NONE
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 5, 15
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
 encounter SPECIES_DRATINI, 5, 15
 encounter SPECIES_DRATINI, 5, 15
 encounter SPECIES_DRATINI, 5, 15
@@ -7487,19 +7487,19 @@ encounter SPECIES_MAGIKARP, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
+encounter SPECIES_MAGIKARP, 19, 19
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_DRATINI, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_DRATINI, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_DRAGONAIR, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -7579,10 +7579,10 @@ pokemon SPECIES_BIDOOF
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
 encounter SPECIES_MAGIKARP, 15, 25
-encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 2, 10
-encounter SPECIES_MAGIKARP, 2, 10
-encounter SPECIES_MAGIKARP, 2, 10
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -7599,7 +7599,7 @@ encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
@@ -7607,11 +7607,11 @@ encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_SWABLU
@@ -7802,11 +7802,11 @@ pokemon SPECIES_CHINGLING
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 5, 15
-encounter SPECIES_MAGIKARP, 2, 10
-encounter SPECIES_MAGIKARP, 2, 10
-encounter SPECIES_MAGIKARP, 2, 10
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -7823,7 +7823,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -7833,9 +7833,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_DUNSPARCE
@@ -7914,11 +7914,11 @@ pokemon SPECIES_CHINGLING
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 5, 15
-encounter SPECIES_MAGIKARP, 2, 10
-encounter SPECIES_MAGIKARP, 2, 10
-encounter SPECIES_MAGIKARP, 2, 10
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -7935,7 +7935,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -7945,9 +7945,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_GEODUDE
@@ -8026,7 +8026,7 @@ pokemon SPECIES_BIDOOF
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_TENTACOOL, 15, 25
+encounter SPECIES_TENTACOOL, 20, 25
 encounter SPECIES_SEEL, 10, 20
 encounter SPECIES_STARYU, 15, 25
 encounter SPECIES_STARYU, 15, 25
@@ -8047,7 +8047,7 @@ encounter SPECIES_TENTACOOL, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_TENTACOOL, 20, 20
 encounter SPECIES_CHINCHOU, 20, 20
 encounter SPECIES_SHELLDER, 20, 20
@@ -8159,19 +8159,19 @@ encounter SPECIES_MAGIKARP, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -8274,16 +8274,16 @@ encounter SPECIES_POLIWAG, 10, 10
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -8810,11 +8810,11 @@ pokemon SPECIES_CHINGLING
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_SEEL, 30, 40
-encounter SPECIES_HORSEA, 30, 40
-encounter SPECIES_SLOWBRO, 35, 45
+encounter SPECIES_SEEL, 30, 33
+encounter SPECIES_HORSEA, 30, 31
+encounter SPECIES_SLOWBRO, 37, 45
 encounter SPECIES_SLOWBRO, 50, 50
-encounter SPECIES_SLOWBRO, 35, 45
+encounter SPECIES_SLOWBRO, 37, 45
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -8831,7 +8831,7 @@ encounter SPECIES_KRABBY, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_PSYDUCK, 20, 20
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_HORSEA, 20, 20
@@ -8840,7 +8840,7 @@ encounter SPECIES_KRABBY, 20, 20
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GYARADOS, 40, 40
-encounter SPECIES_HORSEA, 40, 40
+encounter SPECIES_SEADRA, 40, 40
 encounter SPECIES_KINGLER, 40, 40
 encounter SPECIES_SEADRA, 40, 40
 encounter SPECIES_SEADRA, 40, 40
@@ -8943,7 +8943,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -8953,9 +8953,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_QUAGSIRE
@@ -9055,7 +9055,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -9065,9 +9065,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_QUAGSIRE
@@ -9167,7 +9167,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -9177,9 +9177,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_SNEASEL
@@ -9258,8 +9258,8 @@ pokemon SPECIES_NONE
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_WOOPER, 20, 30
-encounter SPECIES_WOOPER, 20, 30
+encounter SPECIES_WOOPER, 15, 19
+encounter SPECIES_QUAGSIRE, 20, 30
 encounter SPECIES_QUAGSIRE, 30, 40
 encounter SPECIES_QUAGSIRE, 30, 40
 encounter SPECIES_QUAGSIRE, 30, 40
@@ -9279,19 +9279,19 @@ encounter SPECIES_MAGIKARP, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
+encounter SPECIES_MAGIKARP, 19, 19
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -9615,7 +9615,7 @@ encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
@@ -9623,11 +9623,11 @@ encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_TANGELA
@@ -9727,10 +9727,10 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_SEAKING, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_SEAKING, 20, 20
 
 // super rod encounters
@@ -10063,7 +10063,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -10073,9 +10073,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_SNEASEL
@@ -10266,11 +10266,11 @@ pokemon SPECIES_BIDOOF
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 10, 20
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
+encounter SPECIES_MAGIKARP, 10, 19
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -10380,9 +10380,9 @@ pokemon SPECIES_NONE
 // probabilities:  60, 30, 5, 4, 1
 encounter SPECIES_TENTACOOL, 25, 25
 encounter SPECIES_QUAGSIRE, 25, 25
-encounter SPECIES_TENTACRUEL, 25, 25
-encounter SPECIES_TENTACRUEL, 25, 25
-encounter SPECIES_TENTACRUEL, 25, 25
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -10399,7 +10399,7 @@ encounter SPECIES_TENTACOOL, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_TENTACOOL, 20, 20
 encounter SPECIES_TENTACOOL, 20, 20
 encounter SPECIES_TENTACOOL, 20, 20
@@ -10409,9 +10409,9 @@ encounter SPECIES_TENTACOOL, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_TENTACOOL, 40, 40
 encounter SPECIES_TENTACOOL, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_QWILFISH, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -10511,7 +10511,7 @@ encounter SPECIES_KRABBY, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_KRABBY, 20, 20
 encounter SPECIES_CORSOLA, 20, 20
@@ -10519,11 +10519,11 @@ encounter SPECIES_KRABBY, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_KRABBY, 40, 40
-encounter SPECIES_CORSOLA, 40, 40
-encounter SPECIES_KRABBY, 40, 40
 encounter SPECIES_KINGLER, 40, 40
-encounter SPECIES_KRABBY, 40, 40
+encounter SPECIES_CORSOLA, 40, 40
+encounter SPECIES_KINGLER, 40, 40
+encounter SPECIES_KINGLER, 40, 40
+encounter SPECIES_KINGLER, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -10623,7 +10623,7 @@ encounter SPECIES_TENTACOOL, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_TENTACOOL, 20, 20
 encounter SPECIES_CHINCHOU, 20, 20
 encounter SPECIES_SHELLDER, 20, 20
@@ -10735,7 +10735,7 @@ encounter SPECIES_TENTACOOL, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_TENTACOOL, 20, 20
 encounter SPECIES_CHINCHOU, 20, 20
 encounter SPECIES_SHELLDER, 20, 20
@@ -10826,11 +10826,11 @@ pokemon SPECIES_NONE
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_POLIWAG, 10, 10
-encounter SPECIES_POLIWAG, 5, 5
-encounter SPECIES_POLIWHIRL, 10, 10
-encounter SPECIES_POLIWHIRL, 10, 10
-encounter SPECIES_POLIWHIRL, 10, 10
+encounter SPECIES_POLIWAG, 20, 24
+encounter SPECIES_POLIWAG, 20, 24
+encounter SPECIES_POLIWHIRL, 25, 29
+encounter SPECIES_POLIWHIRL, 25, 29
+encounter SPECIES_POLIWHIRL, 25, 29
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -10847,7 +10847,7 @@ encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
@@ -10855,11 +10855,11 @@ encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -10959,7 +10959,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -10969,9 +10969,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -11071,7 +11071,7 @@ encounter SPECIES_TENTACOOL, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_TENTACOOL, 20, 20
 encounter SPECIES_CHINCHOU, 20, 20
 encounter SPECIES_SHELLDER, 20, 20
@@ -11274,7 +11274,7 @@ pokemon SPECIES_NONE
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_MAGIKARP, 15, 15
 encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_MAGIKARP, 10, 10
@@ -11295,19 +11295,19 @@ encounter SPECIES_MAGIKARP, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
+encounter SPECIES_MAGIKARP, 19, 19
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GYARADOS, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 40, 40
 encounter SPECIES_GYARADOS, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -11407,7 +11407,7 @@ encounter SPECIES_TENTACOOL, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_TENTACOOL, 20, 20
 encounter SPECIES_CHINCHOU, 20, 20
 encounter SPECIES_SHELLDER, 20, 20
@@ -11631,7 +11631,7 @@ encounter SPECIES_TENTACOOL, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_TENTACOOL, 20, 20
 encounter SPECIES_CHINCHOU, 20, 20
 encounter SPECIES_SHELLDER, 20, 20
@@ -11723,10 +11723,10 @@ pokemon SPECIES_BIDOOF
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
 encounter SPECIES_TENTACOOL, 20, 20
-encounter SPECIES_TENTACOOL, 15, 15
-encounter SPECIES_TENTACRUEL, 20, 20
-encounter SPECIES_TENTACRUEL, 20, 20
-encounter SPECIES_TENTACRUEL, 20, 20
+encounter SPECIES_TENTACOOL, 20, 25
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -11743,7 +11743,7 @@ encounter SPECIES_TENTACOOL, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_TENTACOOL, 20, 20
 encounter SPECIES_CHINCHOU, 20, 20
 encounter SPECIES_SHELLDER, 20, 20
@@ -11834,7 +11834,7 @@ pokemon SPECIES_BIDOOF
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
 encounter SPECIES_POLIWAG, 35, 35
 encounter SPECIES_POLIWHIRL, 40, 40
 encounter SPECIES_POLIWHIRL, 40, 40
@@ -11855,7 +11855,7 @@ encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
@@ -11863,11 +11863,11 @@ encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_TANGELA
@@ -12863,7 +12863,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -12873,9 +12873,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_SPEAROW
@@ -13087,7 +13087,7 @@ encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
@@ -13095,11 +13095,11 @@ encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_PIDGEY
@@ -13423,7 +13423,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -13433,9 +13433,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_SABLEYE
@@ -13535,7 +13535,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -13545,9 +13545,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_SPEAROW
@@ -13740,9 +13740,9 @@ pokemon SPECIES_BIDOOF
 // probabilities:  60, 30, 5, 4, 1
 encounter SPECIES_TENTACOOL, 25, 25
 encounter SPECIES_QUAGSIRE, 25, 25
-encounter SPECIES_TENTACRUEL, 25, 25
-encounter SPECIES_TENTACRUEL, 25, 25
-encounter SPECIES_TENTACRUEL, 25, 25
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -13759,7 +13759,7 @@ encounter SPECIES_TENTACOOL, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_TENTACOOL, 20, 20
 encounter SPECIES_TENTACOOL, 20, 20
 encounter SPECIES_TENTACOOL, 20, 20
@@ -13769,9 +13769,9 @@ encounter SPECIES_TENTACOOL, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_TENTACOOL, 40, 40
 encounter SPECIES_TENTACOOL, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_QWILFISH, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_CHANSEY
@@ -14431,7 +14431,7 @@ encounter SPECIES_TENTACOOL, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_TENTACOOL, 20, 20
 encounter SPECIES_CHINCHOU, 20, 20
 encounter SPECIES_SHELLDER, 20, 20
@@ -14522,11 +14522,11 @@ pokemon SPECIES_BIDOOF
 
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
-encounter SPECIES_POLIWAG, 10, 10
-encounter SPECIES_POLIWAG, 5, 5
-encounter SPECIES_POLIWHIRL, 10, 10
-encounter SPECIES_POLIWHIRL, 10, 10
-encounter SPECIES_POLIWHIRL, 10, 10
+encounter SPECIES_POLIWAG, 20, 24
+encounter SPECIES_POLIWAG, 20, 24
+encounter SPECIES_POLIWHIRL, 25, 29
+encounter SPECIES_POLIWHIRL, 25, 29
+encounter SPECIES_POLIWHIRL, 25, 29
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -14543,7 +14543,7 @@ encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
@@ -14551,11 +14551,11 @@ encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_RATTATA
@@ -14655,7 +14655,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -14665,9 +14665,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_BELLSPROUT
@@ -14767,7 +14767,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -14777,9 +14777,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_BUNEARY
@@ -14879,7 +14879,7 @@ encounter SPECIES_GOLDEEN, 10, 10
 
 // good rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
@@ -14889,9 +14889,9 @@ encounter SPECIES_GOLDEEN, 20, 20
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_GOLDEEN, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass
 pokemon SPECIES_ZUBAT
@@ -15665,13 +15665,13 @@ encounter SPECIES_MAGIKARP, 10, 10
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
 encounter SPECIES_POLIWHIRL, 40, 40
 encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_GYARADOS, 40, 40
@@ -15777,13 +15777,13 @@ encounter SPECIES_MAGIKARP, 10, 10
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
 encounter SPECIES_POLIWHIRL, 40, 40
 encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_GYARADOS, 40, 40
@@ -15889,13 +15889,13 @@ encounter SPECIES_MAGIKARP, 10, 10
 // probabilities:  40, 40, 15, 4, 1
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 19, 19
 encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
 // probabilities:  40, 40, 15, 4, 1
-encounter SPECIES_POLIWAG, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
 encounter SPECIES_POLIWHIRL, 40, 40
 encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_GYARADOS, 40, 40
