@@ -7969,7 +7969,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 35, 35, 34, 33, 32, 31, 32, 31, 34, 31, 33, 40
+walklevels 35, 35, 34, 33, 32, 31, 32, 31, 34, 31, 33, 35
 
 // morning encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
@@ -7980,7 +7980,7 @@ pokemon SPECIES_DITTO
 pokemon SPECIES_DITTO
 pokemon SPECIES_DITTO
 pokemon SPECIES_GLOOM
-pokemon SPECIES_SPEAROW
+pokemon SPECIES_FEAROW
 pokemon SPECIES_FEAROW
 pokemon SPECIES_RATICATE
 pokemon SPECIES_RATICATE
@@ -7995,7 +7995,7 @@ pokemon SPECIES_DITTO
 pokemon SPECIES_DITTO
 pokemon SPECIES_DITTO
 pokemon SPECIES_GLOOM
-pokemon SPECIES_SPEAROW
+pokemon SPECIES_FEAROW
 pokemon SPECIES_FEAROW
 pokemon SPECIES_RATICATE
 pokemon SPECIES_RATICATE
@@ -8010,7 +8010,7 @@ pokemon SPECIES_DITTO
 pokemon SPECIES_DITTO
 pokemon SPECIES_DITTO
 pokemon SPECIES_GLOOM
-pokemon SPECIES_SPEAROW
+pokemon SPECIES_FEAROW
 pokemon SPECIES_FEAROW
 pokemon SPECIES_RATICATE
 pokemon SPECIES_RATICATE
@@ -8027,10 +8027,10 @@ pokemon SPECIES_BIDOOF
 // surf encounters
 // probabilities:  60, 30, 5, 4, 1
 encounter SPECIES_TENTACOOL, 20, 25
-encounter SPECIES_SEEL, 10, 20
-encounter SPECIES_STARYU, 15, 25
-encounter SPECIES_STARYU, 15, 25
-encounter SPECIES_STARYU, 15, 25
+encounter SPECIES_SEEL, 20, 25
+encounter SPECIES_STARYU, 20, 25
+encounter SPECIES_STARYU, 20, 25
+encounter SPECIES_STARYU, 20, 25
 
 // rock smash encounters
 // probabilities:  90, 10
@@ -9313,17 +9313,17 @@ rocksmashrate 30
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 22, 19, 20, 22, 19, 20, 18, 20, 20, 22, 23, 23
+walklevels 34, 31, 32, 34, 31, 32, 30, 32, 32, 34, 35, 35
 
 // morning encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
 pokemon SPECIES_GOLBAT
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_KRABBY
+pokemon SPECIES_GRAVELER
 pokemon SPECIES_KINGLER
-pokemon SPECIES_MACHOP
+pokemon SPECIES_KINGLER
+pokemon SPECIES_MACHOKE
 pokemon SPECIES_ONIX
-pokemon SPECIES_WOOPER
+pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_GRAVELER
 pokemon SPECIES_MACHOKE
@@ -9333,12 +9333,12 @@ pokemon SPECIES_STEELIX
 // day encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
 pokemon SPECIES_GOLBAT
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_KRABBY
+pokemon SPECIES_GRAVELER
 pokemon SPECIES_KINGLER
-pokemon SPECIES_MACHOP
+pokemon SPECIES_KINGLER
+pokemon SPECIES_MACHOKE
 pokemon SPECIES_ONIX
-pokemon SPECIES_WOOPER
+pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_GRAVELER
 pokemon SPECIES_MACHOKE
@@ -9348,12 +9348,12 @@ pokemon SPECIES_STEELIX
 // night encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
 pokemon SPECIES_GOLBAT
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_KRABBY
+pokemon SPECIES_GRAVELER
 pokemon SPECIES_KINGLER
-pokemon SPECIES_MACHOP
+pokemon SPECIES_KINGLER
+pokemon SPECIES_MACHOKE
 pokemon SPECIES_ONIX
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_MISDREAVUS
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_MACHOKE
@@ -11441,52 +11441,52 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 25, 20, 20, 21, 22, 24, 21, 20, 20, 22, 22, 24
+walklevels 35, 30, 30, 31, 32, 34, 31, 30, 30, 32, 32, 34
 
 // morning encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
 pokemon SPECIES_FARFETCHD
 pokemon SPECIES_TAUROS
-pokemon SPECIES_HOPPIP
+pokemon SPECIES_JUMPLUFF
 pokemon SPECIES_FEAROW
 pokemon SPECIES_GLOOM
 pokemon SPECIES_GLOOM
 pokemon SPECIES_GROWLITHE
 pokemon SPECIES_GIRAFARIG
-pokemon SPECIES_DIGLETT
-pokemon SPECIES_GROWLITHE
-pokemon SPECIES_HOPPIP
-pokemon SPECIES_TAUROS
+pokemon SPECIES_DUGTRIO
+pokemon SPECIES_VULPIX
+pokemon SPECIES_JUMPLUFF
+pokemon SPECIES_CHANSEY
 
 // day encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
 pokemon SPECIES_FARFETCHD
 pokemon SPECIES_TAUROS
-pokemon SPECIES_HOPPIP
+pokemon SPECIES_JUMPLUFF
 pokemon SPECIES_FEAROW
 pokemon SPECIES_GLOOM
 pokemon SPECIES_GLOOM
 pokemon SPECIES_GROWLITHE
 pokemon SPECIES_GIRAFARIG
-pokemon SPECIES_DIGLETT
-pokemon SPECIES_GROWLITHE
-pokemon SPECIES_HOPPIP
-pokemon SPECIES_TAUROS
+pokemon SPECIES_DUGTRIO
+pokemon SPECIES_VULPIX
+pokemon SPECIES_JUMPLUFF
+pokemon SPECIES_CHANSEY
 
 // night encounter slots
 // probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
-pokemon SPECIES_GROWLITHE
+pokemon SPECIES_VULPIX
 pokemon SPECIES_TAUROS
-pokemon SPECIES_HOPPIP
+pokemon SPECIES_JUMPLUFF
 pokemon SPECIES_FEAROW
 pokemon SPECIES_GLOOM
 pokemon SPECIES_GLOOM
 pokemon SPECIES_GROWLITHE
 pokemon SPECIES_GIRAFARIG
-pokemon SPECIES_DIGLETT
+pokemon SPECIES_DUGTRIO
 pokemon SPECIES_GROWLITHE
-pokemon SPECIES_HOPPIP
-pokemon SPECIES_TAUROS
+pokemon SPECIES_JUMPLUFF
+pokemon SPECIES_CHANSEY
 
 // hoenn encounter slots
 pokemon SPECIES_PLUSLE

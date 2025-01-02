@@ -26060,16 +26060,16 @@ trainerdata 729, "Duff & Eda"
 
     party 729
         // mon 0
-        ivs 0
+        ivs 150
         abilityslot 32
-        level 22
-        pokemon SPECIES_ONIX
+        level 32
+        pokemon SPECIES_STEELIX
         ballseal 0
 
         // mon 1
-        ivs 0
+        ivs 150
         abilityslot 32
-        level 22
+        level 32
         pokemon SPECIES_CLOYSTER
         ballseal 0
     endparty
@@ -26077,7 +26077,7 @@ trainerdata 729, "Duff & Eda"
 trainerdata 730, "Thom & Kae"
     trainermontype TRAINER_DATA_TYPE_MOVES
     trainerclass CLASS_DOUBLE_TEAM
-    nummons 2
+    nummons 6
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -26087,10 +26087,29 @@ trainerdata 730, "Thom & Kae"
     endentry
 
     party 730
-        // mon 0
+    ivs 50
+        abilityslot 0
+        level 24
+        pokemon SPECIES_ELEKID
+        move MOVE_THUNDERBOLT
+        move MOVE_LIGHT_SCREEN
+        move MOVE_SWIFT
+        move MOVE_THUNDER_WAVE
+        ballseal 0
+
         ivs 50
         abilityslot 0
-        level 25
+        level 24
+        pokemon SPECIES_MAGBY
+        move MOVE_FLAMETHROWER
+        move MOVE_CONFUSE_RAY
+        move MOVE_FEINT_ATTACK
+        move MOVE_PROTECT
+        ballseal 0
+
+        ivs 100
+        abilityslot 0
+        level 27
         pokemon SPECIES_ELECTABUZZ
         move MOVE_THUNDERBOLT
         move MOVE_LIGHT_SCREEN
@@ -26098,11 +26117,30 @@ trainerdata 730, "Thom & Kae"
         move MOVE_THUNDER_WAVE
         ballseal 0
 
-        // mon 1
-        ivs 50
+        ivs 100
         abilityslot 0
-        level 25
+        level 27
         pokemon SPECIES_MAGMAR
+        move MOVE_FLAMETHROWER
+        move MOVE_CONFUSE_RAY
+        move MOVE_FEINT_ATTACK
+        move MOVE_PROTECT
+        ballseal 0
+
+        ivs 150
+        abilityslot 0
+        level 30
+        pokemon SPECIES_ELECTIVIRE
+        move MOVE_THUNDERBOLT
+        move MOVE_LIGHT_SCREEN
+        move MOVE_SWIFT
+        move MOVE_THUNDER_WAVE
+        ballseal 0
+
+        ivs 150
+        abilityslot 0
+        level 30
+        pokemon SPECIES_MAGMORTAR
         move MOVE_FLAMETHROWER
         move MOVE_CONFUSE_RAY
         move MOVE_FEINT_ATTACK
@@ -26124,24 +26162,24 @@ trainerdata 731, "Devin"
 
     party 731
         // mon 0
-        ivs 0
+        ivs 100
         abilityslot 0
-        level 19
+        level 29
         pokemon SPECIES_DUNSPARCE
         ballseal 0
 
         // mon 1
-        ivs 0
+        ivs 100
         abilityslot 0
-        level 19
+        level 31
         pokemon SPECIES_DUNSPARCE
         ballseal 0
 
         // mon 2
-        ivs 0
+        ivs 150
         abilityslot 0
-        level 19
-        pokemon SPECIES_DUNSPARCE
+        level 33
+        pokemon SPECIES_DUDUNSPARCE
         ballseal 0
     endparty
 
@@ -26159,17 +26197,17 @@ trainerdata 732, "Grant"
 
     party 732
         // mon 0
-        ivs 0
+        ivs 150
         abilityslot 0
-        level 21
-        pokemon SPECIES_SKIPLOOM
+        level 31
+        pokemon SPECIES_JUMPLUFF
         ballseal 0
 
         // mon 1
-        ivs 0
+        ivs 150
         abilityslot 32
-        level 21
-        pokemon SPECIES_MARILL
+        level 33
+        pokemon SPECIES_AZUMARILL
         ballseal 0
     endparty
 
